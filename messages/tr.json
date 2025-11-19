@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "services": "Hizmetler",
+    "about": "Hakkında",
+    "contact": "İletişim",
+    "letsTalk": "Konuşalım"
+  },
+  "hero": {
+    "availableBadge": "Yeni projeler için müsait",
+    "title": "Ölçeklenebilir",
+    "titleHighlight": "Dijital Ürünler Geliştiriyorum",
+    "description": "Startuplar ve ajanslar için dönüşüm sağlayan yüksek kaliteli web deneyimleri tasarlıyorum. Minimalist tasarım, maksimum performans.",
+    "hireMe": "Beni İşe Al",
+    "trustedBy": "Güvenilen ekipler"
+  },
+  "services": {
+    "title": "Hizmetler",
+    "subtitle": "Ürün olarak paketlenmiş premium teknik hizmetler. Net fiyatlandırma, tanımlı kapsam, olağanüstü sonuçlar.",
+    "webDev": {
+      "title": "Web Geliştirme",
+      "description": "Next.js ve React ile oluşturulmuş ölçeklenebilir, yüksek performanslı web siteleri.",
+      "price": "2.500$'dan başlayan"
+    },
+    "appDesign": {
+      "title": "Uygulama Tasarımı",
+      "description": "Mobil ve web uygulamaları için kullanıcı odaklı UI/UX tasarımı.",
+      "price": "1.500$'dan başlayan"
+    },
+    "apiIntegration": {
+      "title": "API Entegrasyonu",
+      "description": "Üçüncü taraf API'ler ve backend hizmetlerinin sorunsuz entegrasyonu.",
+      "price": "1.000$'dan başlayan"
+    },
+    "bookNow": "Hemen Rezervasyon Yap"
+  },
+  "footer": {
+    "cta": "Hadi birlikte",
+    "ctaHighlight": "olağanüstü bir şeyler yapalım.",
+    "startProject": "Projeye Başla",
+    "navigation": "Navigasyon",
+    "socials": "Sosyal Medya",
+    "newsletter": "Bültene abone ol",
+    "emailPlaceholder": "email@ornek.com",
+    "join": "Katıl",
+    "copyright": "© 2025 Heroicsoft. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları",
+    "links": {
+      "services": "Hizmetler",
+      "about": "Hakkında",
+      "twitter": "Twitter",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "email": "E-posta"
+    }
+  },
+  "privacy": {
+    "badge": "Yasal Belge",
+    "title": "Gizlilik Politikası",
+    "lastUpdated": "Son Güncelleme",
+    "intro": "Heroicsoft olarak, gizliliğinizi korumaya ve kişisel bilgilerinizin güvenliğini sağlamaya kararlıyız. Bu Gizlilik Politikası, hizmetlerimizi kullandığınızda verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklamaktadır.",
+    "dataCollection": {
+      "title": "Topladığımız Bilgiler",
+      "content": "Doğrudan bize sağladığınız bilgileri topluyoruz; bu, hesap oluşturduğunuzda, bizimle iletişime geçtiğinizde veya hizmetlerimizi kullandığınızda içerebilir:",
+      "items": [
+        "Kişisel kimlik bilgileri (ad, e-posta adresi, telefon numarası)",
+        "Profesyonel bilgiler (şirket adı, iş unvanı)",
+        "Teknik veriler (IP adresi, tarayıcı türü, cihaz bilgileri)",
+        "Kullanım verileri (ziyaret edilen sayfalar, sitede geçirilen süre, özelliklerle etkileşim)"
+      ]
+    },
+    "dataUsage": {
+      "title": "Bilgilerinizi Nasıl Kullanırız",
+      "content": "Toplanan bilgileri, hizmetlerimizi sağlamak ve geliştirmek için çeşitli amaçlarla kullanırız:",
+      "items": [
+        "Hizmetlerimizi sağlamak, sürdürmek ve geliştirmek için",
+        "Güncellemeler, teklifler ve destek hakkında sizinle iletişim kurmak için",
+        "Deneyiminizi kişiselleştirmek ve ilgili içerik sunmak için",
+        "Kullanım kalıplarını analiz etmek ve platformumuzu optimize etmek için",
+        "Teknik sorunları veya hileli faaliyetleri tespit etmek, önlemek ve ele almak için"
+      ]
+    },
+    "dataSecurity": {
+      "title": "Veri Güvenliği",
+      "content": "Kişisel bilgilerinizi yetkisiz erişim, ifşa, değiştirme veya imhadan korumak için endüstri standardı güvenlik önlemleri uyguluyoruz. Güvenlik uygulamalarımız şifreleme, güvenli sunucular, düzenli güvenlik denetimleri ve katı erişim kontrolleri içerir. Ancak, internet üzerinden hiçbir iletim yöntemi %100 güvenli değildir ve mutlak güvenliği garanti edemeyiz."
+    },
+    "cookies": {
+      "title": "Çerezler ve İzleme Teknolojileri",
+      "content": "Tarama deneyiminizi geliştirmek, site trafiğini analiz etmek ve kullanıcı tercihlerini anlamak için çerezler ve benzeri izleme teknolojileri kullanıyoruz. Tarayıcı tercihleriniz aracılığıyla çerez ayarlarını kontrol edebilirsiniz. Çerezleri devre dışı bırakmak, hizmetlerimizin bazı işlevlerini etkileyebilir."
+    },
+    "rights": {
+      "title": "Haklarınız ve Seçimleriniz",
+      "content": "Kişisel bilgilerinizle ilgili belirli haklara sahipsiniz:",
+      "items": [
+        "Erişim: Hakkınızda tuttuğumuz kişisel verilere erişim talep edin",
+        "Düzeltme: Hatalı veya eksik verilerin düzeltilmesini talep edin",
+        "Silme: Yasal yükümlülüklere tabi olarak kişisel verilerinizin silinmesini talep edin",
+        "Vazgeçme: Pazarlama iletişimlerinden istediğiniz zaman aboneliğinizi iptal edin",
+        "Veri Taşınabilirliği: Yapılandırılmış bir formatta verilerinizin bir kopyasını talep edin"
+      ]
+    },
+    "contact": {
+      "title": "İletişim",
+      "content": "Bu Gizlilik Politikası veya veri uygulamalarımız ile ilgili herhangi bir sorunuz, endişeniz veya talebiniz varsa, lütfen bizimle iletişime geçmekten çekinmeyin:",
+      "email": "help@heroicsoft.com"
+    }
+  },
+  "terms": {
+    "badge": "Şartlar ve Koşullar",
+    "title": "Hizmet Şartları",
+    "lastUpdated": "Son Güncelleme",
+    "intro": "Heroicsoft'a hoş geldiniz. Hizmetlerimize erişerek ve bunları kullanarak, bu Hizmet Şartlarına bağlı kalmayı kabul etmiş olursunuz. Lütfen platformumuzu kullanmadan önce bunları dikkatlice okuyun.",
+    "acceptance": {
+      "title": "Şartların Kabulü",
+      "content": "Heroicsoft'un hizmetlerine erişerek veya bunları kullanarak, bu Hizmet Şartlarını ve Gizlilik Politikamızı okuduğunuzu, anladığınızı ve bunlara bağlı kalmayı kabul ettiğinizi onaylamış olursunuz. Bu şartları kabul etmiyorsanız, lütfen hizmetlerimizi kullanmayın. Bu şartları herhangi bir zamanda değiştirme hakkını saklı tutarız ve hizmetlerimizi kullanmaya devam etmeniz, yapılan değişiklikleri kabul ettiğiniz anlamına gelir."
+    },
+    "services": {
+      "title": "Hizmetlerin Açıklaması",
+      "content": "Heroicsoft, web geliştirme, tasarım ve dijital ürün hizmetleri sunar. Sunduklarımız:",
+      "items": [
+        "Özel web uygulaması geliştirme ve tasarım",
+        "API entegrasyonu ve backend hizmetleri",
+        "UI/UX tasarımı ve danışmanlık",
+        "Teknik destek ve bakım",
+        "Proje yönetimi ve teslimat"
+      ]
+    },
+    "userResponsibilities": {
+      "title": "Kullanıcı Sorumlulukları",
+      "content": "Hizmetlerimizin bir kullanıcısı olarak, şunları kabul edersiniz:",
+      "items": [
+        "Gerekli olduğunda doğru ve eksiksiz bilgi sağlamak",
+        "Hesap kimlik bilgilerinizin gizliliğini korumak",
+        "Tüm geçerli yasa ve yönetmeliklere uymak",
+        "Hizmetlerimizin düzgün çalışmasına müdahale etmemek",
+        "Heroicsoft ve üçüncü tarafların fikri mülkiyet haklarına saygı göstermek",
+        "Hizmetlerimizi yalnızca yasal amaçlar için kullanmak"
+      ]
+    },
+    "prohibited": {
+      "title": "Yasaklanan Faaliyetler",
+      "content": "Hizmetlerimizi şunlar için kullanamazsınız:",
+      "items": [
+        "Herhangi bir yasa veya yönetmeliği ihlal etmek",
+        "Fikri mülkiyet haklarını ihlal etmek",
+        "Zararlı veya kötü amaçlı kod göndermek",
+        "Sistemlerimize yetkisiz erişim elde etmeye çalışmak",
+        "Herhangi bir taciz veya kötüye kullanım davranışında bulunmak",
+        "Başkalarının kimliğine bürünmek veya ilişkinizi yanlış beyan etmek",
+        "İzinsiz veri toplamak veya elde etmek"
+      ]
+    },
+    "intellectual": {
+      "title": "Fikri Mülkiyet Hakları",
+      "content": "Hizmetlerimizin tüm içeriği, özellikleri ve işlevselliği, metin, grafikler, logolar, tasarımlar ve yazılım dahil ancak bunlarla sınırlı olmamak üzere, Heroicsoft'un münhasır mülkiyetindedir ve uluslararası telif hakkı, ticari marka ve diğer fikri mülkiyet yasalarıyla korunmaktadır. Açık yazılı iznimiz olmadan çoğaltma, dağıtma, değiştirme veya türev eserler oluşturamazsınız."
+    },
+    "limitation": {
+      "title": "Sorumluluk Sınırlaması",
+      "content": "Yasaların izin verdiği azami ölçüde, Heroicsoft, doğrudan veya dolaylı olarak ortaya çıkan herhangi bir dolaylı, arızi, özel, sonuç olarak ortaya çıkan veya cezai zarar veya herhangi bir kar veya gelir kaybı veya hizmetlerimizi kullanmanızdan kaynaklanan herhangi bir veri, kullanım, iyi niyet veya diğer maddi olmayan kayıplardan sorumlu olmayacaktır. Toplam sorumluluğumuz, son 12 ayda hizmetlerimiz için ödediğiniz tutarı geçmeyecektir."
+    },
+    "notice": {
+      "title": "Şartlardaki Değişiklikler",
+      "content": "Bu Hizmet Şartlarını herhangi bir zamanda güncelleme hakkını saklı tutarız. Yeni şartları bu sayfada yayınlayarak ve 'Son Güncelleme' tarihini güncelleyerek önemli değişiklikleri size bildireceğiz. Bu tür değişikliklerden sonra hizmetlerimizi kullanmaya devam etmeniz, güncellenmiş şartları kabul ettiğiniz anlamına gelir."
+    }
+  },
+  "about": {
+    "title": "Hakkımda",
+    "role": "Full Stack Geliştirici & Tasarımcı",
+    "intro": {
+      "paragraph1": "8 yılı aşkın deneyimle olağanüstü web deneyimleri oluşturan tutkulu bir dijital yaratıcıyım. Teknolojiye olan yolculuğum, işlerin nasıl çalıştığına dair bir merakla başladı ve ölçeklenebilir, kullanıcı odaklı dijital ürünler yaratmaya adanmış bir kariyere dönüştü.",
+      "paragraph2": "Modern web teknolojilerinde uzmanlaşıyorum, teknik uzmanlığı yaratıcı tasarım düşüncesiyle birleştirerek sadece harika görünmekle kalmayıp aynı zamanda olağanüstü performans gösteren çözümler sunuyorum."
+    },
+    "stats": {
+      "projects": {
+        "value": "150+",
+        "label": "Tamamlanan Proje"
+      },
+      "clients": {
+        "value": "80+",
+        "label": "Mutlu Müşteri"
+      },
+      "experience": {
+        "value": "8+",
+        "label": "Yıllık Deneyim"
+      },
+      "satisfaction": {
+        "value": "%100",
+        "label": "Müşteri Memnuniyeti"
+      }
+    },
+    "skills": {
+      "title": "En İyi Yaptıklarım",
+      "development": {
+        "title": "Geliştirme",
+        "description": "React, Next.js ve Node.js gibi modern frameworkler ile ölçeklenebilir web uygulamaları geliştirme."
+      },
+      "design": {
+        "title": "Tasarım",
+        "description": "Kullanılabilirlik ve estetik çekicilik odaklı sezgisel kullanıcı arayüzleri oluşturma."
+      },
+      "performance": {
+        "title": "Performans",
+        "description": "Hız, verimlilik ve olağanüstü kullanıcı deneyimi için uygulamaları optimize etme."
+      },
+      "collaboration": {
+        "title": "İşbirliği",
+        "description": "Projeleri zamanında teslim etmek ve beklentileri aşmak için ekiplerle kusursuz çalışma."
+      }
+    },
+    "journey": {
+      "title": "Yolculuğum",
+      "education": {
+        "title": "Eğitim ve Temel",
+        "description": "Bilgisayar Bilimleri diploması ile başladım, burada yazılım mühendisliği prensipleri, algoritmalar ve sistem tasarımında güçlü bir temel oluşturdum. Bu akademik geçmiş, karmaşık zorlukları ele almak için gereken teknik derinliği sağladı."
+      },
+      "career": {
+        "title": "Kariyer Gelişimi",
+        "description": "Önde gelen teknoloji şirketleri ve yenilikçi startuplar ile çalıştım, tüm yığın boyunca deneyim kazandım. MVP'ler oluşturmaktan ürünleri milyonlarca kullanıcıya ölçeklendirmeye kadar, her proje harika yazılımı neyin oluşturduğu hakkında değerli dersler öğretti."
+      },
+      "expertise": {
+        "title": "Güncel Uzmanlık",
+        "description": "Bugün, işletmelerin fikirlerini son teknoloji web teknolojileri aracılığıyla gerçeğe dönüştürmelerine yardımcı olmaya odaklanıyorum. Uzmanlığım frontend frameworklerden, backend mimarilerinden, bulut altyapısına ve aradaki her şeye kadar uzanıyor."
+      }
+    },
+    "cta": {
+      "title": "Birlikte Çalışalım",
+      "description": "Yeni projeler ve fırsatlar hakkında bilgi almakla her zaman ilgileniyorum. Bir sorunuz varsa veya sadece merhaba demek istiyorsanız, iletişime geçmekten çekinmeyin!",
+      "button": "İletişime Geç"
+    }
+  },
+  "contact": {
+    "title": "İletişime Geçin",
+    "subtitle": "Aklınızda bir proje var mı yoksa sadece sohbet etmek mi istiyorsunuz? Sizden haber almayı çok isterim. Bana bir mesaj gönderin, en kısa sürede cevap vereceğim.",
+    "info": {
+      "title": "İletişim Bilgileri",
+      "email": {
+        "label": "E-posta"
+      },
+      "phone": {
+        "label": "Telefon"
+      },
+      "location": {
+        "label": "Konum"
+      },
+      "hours": {
+        "label": "Çalışma Saatleri"
+      }
+    },
+    "social": {
+      "title": "Beni Takip Edin"
+    },
+    "availability": {
+      "title": "Mevcut Uygunluk",
+      "description": "Şu anda freelance projeler ve danışmanlık fırsatları için uygunum. Vizyonunuzu hayata geçirmenize nasıl yardımcı olabileceğimi konuşalım."
+    },
+    "form": {
+      "title": "Bana Mesaj Gönderin",
+      "name": {
+        "label": "Adınız",
+        "placeholder": "Ahmet Yılmaz"
+      },
+      "email": {
+        "label": "E-posta Adresiniz",
+        "placeholder": "ahmet@ornek.com"
+      },
+      "subject": {
+        "label": "Konu",
+        "placeholder": "Proje Sorgusu"
+      },
+      "message": {
+        "label": "Mesaj",
+        "placeholder": "Projeniz hakkında bana bilgi verin..."
+      },
+      "submit": "Mesaj Gönder",
+      "response": "Genellikle 24 saat içinde cevap veriyorum."
+    }
+  },
+  "servicesPage": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "İhtiyaçlarınıza özel kapsamlı dijital çözümler. Konseptten lansmanına kadar, sonuç odaklı uçtan uca hizmetler sağlıyoruz.",
+    "startingFrom": "Başlangıç fiyatı",
+    "getStarted": "Başlayın",
+    "services": {
+      "webDev": {
+        "title": "Web Geliştirme",
+        "description": "Optimal performans ve ölçeklenebilirlik için son teknoloji ile oluşturulmuş özel web uygulamaları.",
+        "price": "2.500$",
+        "features": [
+          "Tüm cihazlar için duyarlı tasarım",
+          "Modern frameworkler (React, Next.js, Vue)",
+          "API entegrasyonu ve backend geliştirme",
+          "Performans optimizasyonu",
+          "SEO en iyi uygulamaları"
+        ]
+      },
+      "appDesign": {
+        "title": "Uygulama Tasarımı",
+        "description": "Etkileyici deneyimler yaratan ve kullanıcı memnuniyetini artıran kullanıcı merkezli tasarım.",
+        "price": "1.500$",
+        "features": [
+          "Kullanıcı araştırması ve personalar",
+          "Tel çerçeve ve prototipleme",
+          "Görsel tasarım ve markalama",
+          "Kullanılabilirlik testi",
+          "Tasarım sistemi oluşturma"
+        ]
+      },
+      "apiIntegration": {
+        "title": "API Entegrasyonu",
+        "description": "Üçüncü taraf hizmetlerin sorunsuz entegrasyonu ve özel API geliştirme.",
+        "price": "1.000$",
+        "features": [
+          "RESTful API geliştirme",
+          "Üçüncü taraf hizmet entegrasyonu",
+          "API dokümantasyonu",
+          "Güvenli kimlik doğrulama",
+          "Hız sınırlama ve önbellekleme"
+        ]
+      },
+      "uiux": {
+        "title": "UI/UX Tasarımı",
+        "description": "Kullanıcıların sevdiği sezgisel kullanıcı deneyimleriyle birleştirilmiş güzel arayüzler.",
+        "price": "1.800$",
+        "features": [
+          "Kullanıcı akışı optimizasyonu",
+          "Etkileşimli prototipler",
+          "Erişilebilirlik uyumluluğu",
+          "Mobil öncelikli tasarım",
+          "A/B test stratejisi"
+        ]
+      },
+      "performance": {
+        "title": "Performans Optimizasyonu",
+        "description": "Uzman optimizasyonu ile uygulamanızı hızlandırın ve kullanıcı deneyimini geliştirin.",
+        "price": "1.200$",
+        "features": [
+          "Kod bölme ve lazy loading",
+          "Görsel ve varlık optimizasyonu",
+          "Önbellekleme stratejileri",
+          "Veritabanı sorgusu optimizasyonu",
+          "CDN uygulaması"
+        ]
+      },
+      "security": {
+        "title": "Güvenlik Denetimi",
+        "description": "Kapsamlı güvenlik değerlendirmesi ve en iyi uygulamaların uygulanması.",
+        "price": "2.000$",
+        "features": [
+          "Güvenlik açığı değerlendirmesi",
+          "Penetrasyon testi",
+          "Güvenlik uyumluluğu (GDPR, HIPAA)",
+          "Şifreleme uygulaması",
+          "Güvenlik eğitimi"
+        ]
+      }
+    },
+    "process": {
+      "title": "Sürecimiz",
+      "subtitle": "Baştan sona başarılı proje teslimatını garanti eden kanıtlanmış bir metodoloji.",
+      "steps": {
+        "discovery": {
+          "title": "Keşif",
+          "description": "Derinlemesine danışmanlık yoluyla işletme hedeflerinizi, hedef kitlenizi ve proje gereksinimlerinizi anlayarak başlıyoruz."
+        },
+        "planning": {
+          "title": "Planlama",
+          "description": "Onayınız için detaylı proje yol haritası, teknik mimari ve tasarım maketleri oluşturma."
+        },
+        "development": {
+          "title": "Geliştirme",
+          "description": "Çevik metodoloji, düzenli güncellemeler ve süreç boyunca sürekli test ile çözümünüzü oluşturma."
+        },
+        "launch": {
+          "title": "Lansман ve Destek",
+          "description": "Kapsamlı test, eğitim ve sürekli destek ile projenizi üretime dağıtma."
+        }
+      }
+    },
+    "cta": {
+      "title": "Projenizi Başlatmaya Hazır mısınız?",
+      "description": "Hedeflerinize ulaşmanıza ve vizyonunuzu hayata geçirmenize nasıl yardımcı olabileceğimizi konuşalım.",
+      "button": "İletişime Geçin"
+    }
+  }
+}
+

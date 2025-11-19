@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "letsTalk": "Hablemos"
+  },
+  "hero": {
+    "availableBadge": "Disponible para nuevos proyectos",
+    "title": "Construyendo Productos",
+    "titleHighlight": "Digitales Escalables",
+    "description": "Ayudo a startups y agencias a crear experiencias web de alta fidelidad que convierten. Diseño minimalista, máximo rendimiento.",
+    "hireMe": "Contrátame",
+    "trustedBy": "Confiado por equipos en"
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Servicios técnicos premium empaquetados como productos. Precios claros, alcance definido, resultados excepcionales.",
+    "webDev": {
+      "title": "Desarrollo Web",
+      "description": "Sitios web escalables y de alto rendimiento construidos con Next.js y React.",
+      "price": "Desde $2,500"
+    },
+    "appDesign": {
+      "title": "Diseño de Aplicaciones",
+      "description": "Diseño UI/UX centrado en el usuario para aplicaciones móviles y web.",
+      "price": "Desde $1,500"
+    },
+    "apiIntegration": {
+      "title": "Integración de API",
+      "description": "Integración perfecta de APIs de terceros y servicios backend.",
+      "price": "Desde $1,000"
+    },
+    "bookNow": "Reservar Ahora"
+  },
+  "footer": {
+    "cta": "Construyamos algo",
+    "ctaHighlight": "extraordinario.",
+    "startProject": "Iniciar un Proyecto",
+    "navigation": "Navegación",
+    "socials": "Redes Sociales",
+    "newsletter": "Suscribirse al boletín",
+    "emailPlaceholder": "email@ejemplo.com",
+    "join": "Unirse",
+    "copyright": "© 2025 Heroicsoft. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "links": {
+      "services": "Servicios",
+      "about": "Acerca de",
+      "twitter": "Twitter",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "email": "Correo"
+    }
+  },
+  "privacy": {
+    "badge": "Documento Legal",
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última Actualización",
+    "intro": "En Heroicsoft, nos comprometemos a proteger su privacidad y garantizar la seguridad de su información personal. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos sus datos cuando utiliza nuestros servicios.",
+    "dataCollection": {
+      "title": "Información que Recopilamos",
+      "content": "Recopilamos información que usted nos proporciona directamente, incluso cuando crea una cuenta, se pone en contacto con nosotros o utiliza nuestros servicios. Esto puede incluir:",
+      "items": [
+        "Información de identificación personal (nombre, dirección de correo electrónico, número de teléfono)",
+        "Información profesional (nombre de la empresa, cargo)",
+        "Datos técnicos (dirección IP, tipo de navegador, información del dispositivo)",
+        "Datos de uso (páginas visitadas, tiempo en el sitio, interacción con funciones)"
+      ]
+    },
+    "dataUsage": {
+      "title": "Cómo Usamos Su Información",
+      "content": "Utilizamos la información recopilada para diversos fines para proporcionar y mejorar nuestros servicios:",
+      "items": [
+        "Para proporcionar, mantener y mejorar nuestros servicios",
+        "Para comunicarnos con usted sobre actualizaciones, ofertas y soporte",
+        "Para personalizar su experiencia y entregar contenido relevante",
+        "Para analizar patrones de uso y optimizar nuestra plataforma",
+        "Para detectar, prevenir y abordar problemas técnicos o actividades fraudulentas"
+      ]
+    },
+    "dataSecurity": {
+      "title": "Seguridad de Datos",
+      "content": "Implementamos medidas de seguridad estándar de la industria para proteger su información personal contra acceso no autorizado, divulgación, alteración o destrucción. Nuestras prácticas de seguridad incluyen cifrado, servidores seguros, auditorías de seguridad regulares y controles de acceso estrictos. Sin embargo, ningún método de transmisión por internet es 100% seguro, y no podemos garantizar una seguridad absoluta."
+    },
+    "cookies": {
+      "title": "Cookies y Tecnologías de Seguimiento",
+      "content": "Utilizamos cookies y tecnologías de seguimiento similares para mejorar su experiencia de navegación, analizar el tráfico del sitio y comprender las preferencias del usuario. Puede controlar la configuración de cookies a través de las preferencias de su navegador. Deshabilitar las cookies puede afectar algunas funcionalidades de nuestros servicios."
+    },
+    "rights": {
+      "title": "Sus Derechos y Opciones",
+      "content": "Tiene ciertos derechos con respecto a su información personal:",
+      "items": [
+        "Acceso: Solicitar acceso a los datos personales que tenemos sobre usted",
+        "Corrección: Solicitar la corrección de datos inexactos o incompletos",
+        "Eliminación: Solicitar la eliminación de sus datos personales, sujeto a obligaciones legales",
+        "Optar por no participar: Cancelar la suscripción a comunicaciones de marketing en cualquier momento",
+        "Portabilidad de Datos: Solicitar una copia de sus datos en un formato estructurado"
+      ]
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "content": "Si tiene alguna pregunta, inquietud o solicitud con respecto a esta Política de Privacidad o nuestras prácticas de datos, no dude en contactarnos:",
+      "email": "help@heroicsoft.com"
+    }
+  },
+  "terms": {
+    "badge": "Términos y Condiciones",
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última Actualización",
+    "intro": "Bienvenido a Heroicsoft. Al acceder y utilizar nuestros servicios, acepta estar sujeto a estos Términos de Servicio. Por favor, léalos cuidadosamente antes de usar nuestra plataforma.",
+    "acceptance": {
+      "title": "Aceptación de Términos",
+      "content": "Al acceder o utilizar los servicios de Heroicsoft, reconoce que ha leído, entendido y acepta estar sujeto a estos Términos de Servicio y nuestra Política de Privacidad. Si no está de acuerdo con estos términos, por favor no utilice nuestros servicios. Nos reservamos el derecho de modificar estos términos en cualquier momento, y su uso continuo de nuestros servicios constituye la aceptación de cualquier cambio."
+    },
+    "services": {
+      "title": "Descripción de Servicios",
+      "content": "Heroicsoft proporciona servicios de desarrollo web, diseño y productos digitales. Ofrecemos:",
+      "items": [
+        "Desarrollo y diseño de aplicaciones web personalizadas",
+        "Integración de API y servicios backend",
+        "Diseño UI/UX y consultoría",
+        "Soporte técnico y mantenimiento",
+        "Gestión y entrega de proyectos"
+      ]
+    },
+    "userResponsibilities": {
+      "title": "Responsabilidades del Usuario",
+      "content": "Como usuario de nuestros servicios, acepta:",
+      "items": [
+        "Proporcionar información precisa y completa cuando se requiera",
+        "Mantener la confidencialidad de las credenciales de su cuenta",
+        "Cumplir con todas las leyes y regulaciones aplicables",
+        "No interferir con el funcionamiento adecuado de nuestros servicios",
+        "Respetar los derechos de propiedad intelectual de Heroicsoft y terceros",
+        "Usar nuestros servicios solo para fines legales"
+      ]
+    },
+    "prohibited": {
+      "title": "Actividades Prohibidas",
+      "content": "No puede utilizar nuestros servicios para:",
+      "items": [
+        "Violar cualquier ley o regulación",
+        "Infringir derechos de propiedad intelectual",
+        "Transmitir código dañino o malicioso",
+        "Intentar obtener acceso no autorizado a nuestros sistemas",
+        "Participar en cualquier forma de acoso o comportamiento abusivo",
+        "Suplantar a otros o tergiversar su afiliación",
+        "Recopilar o cosechar datos sin permiso"
+      ]
+    },
+    "intellectual": {
+      "title": "Derechos de Propiedad Intelectual",
+      "content": "Todo el contenido, características y funcionalidad de nuestros servicios, incluidos pero no limitados a texto, gráficos, logotipos, diseños y software, son propiedad exclusiva de Heroicsoft y están protegidos por leyes internacionales de derechos de autor, marcas registradas y otras leyes de propiedad intelectual. No puede reproducir, distribuir, modificar o crear obras derivadas sin nuestro permiso expreso por escrito."
+    },
+    "limitation": {
+      "title": "Limitación de Responsabilidad",
+      "content": "En la máxima medida permitida por la ley, Heroicsoft no será responsable de ningún daño indirecto, incidental, especial, consecuente o punitivo, o cualquier pérdida de ganancias o ingresos, ya sea incurrido directa o indirectamente, o cualquier pérdida de datos, uso, buena voluntad u otras pérdidas intangibles resultantes de su uso de nuestros servicios. Nuestra responsabilidad total no excederá la cantidad pagada por usted por nuestros servicios en los últimos 12 meses."
+    },
+    "notice": {
+      "title": "Cambios a los Términos",
+      "content": "Nos reservamos el derecho de actualizar estos Términos de Servicio en cualquier momento. Le notificaremos cualquier cambio material publicando los nuevos términos en esta página y actualizando la fecha de 'Última Actualización'. Su uso continuo de nuestros servicios después de tales modificaciones constituye su aceptación de los términos actualizados."
+    }
+  },
+  "about": {
+    "title": "Acerca de Mí",
+    "role": "Desarrollador Full Stack y Diseñador",
+    "intro": {
+      "paragraph1": "Soy un creador digital apasionado con más de 8 años de experiencia construyendo experiencias web excepcionales. Mi viaje en tecnología comenzó con la curiosidad sobre cómo funcionan las cosas y evolucionó hacia una carrera dedicada a crear productos digitales escalables y centrados en el usuario.",
+      "paragraph2": "Me especializo en tecnologías web modernas, combinando experiencia técnica con pensamiento de diseño creativo para entregar soluciones que no solo se ven geniales sino que también funcionan excepcionalmente bien."
+    },
+    "stats": {
+      "projects": {
+        "value": "150+",
+        "label": "Proyectos Completados"
+      },
+      "clients": {
+        "value": "80+",
+        "label": "Clientes Felices"
+      },
+      "experience": {
+        "value": "8+",
+        "label": "Años de Experiencia"
+      },
+      "satisfaction": {
+        "value": "100%",
+        "label": "Satisfacción del Cliente"
+      }
+    },
+    "skills": {
+      "title": "Lo Que Mejor Hago",
+      "development": {
+        "title": "Desarrollo",
+        "description": "Construyendo aplicaciones web escalables con frameworks modernos como React, Next.js y Node.js."
+      },
+      "design": {
+        "title": "Diseño",
+        "description": "Creando interfaces de usuario intuitivas con un enfoque en la usabilidad y el atractivo estético."
+      },
+      "performance": {
+        "title": "Rendimiento",
+        "description": "Optimizando aplicaciones para velocidad, eficiencia y experiencia de usuario excepcional."
+      },
+      "collaboration": {
+        "title": "Colaboración",
+        "description": "Trabajando perfectamente con equipos para entregar proyectos a tiempo y superar expectativas."
+      }
+    },
+    "journey": {
+      "title": "Mi Viaje",
+      "education": {
+        "title": "Educación y Fundación",
+        "description": "Comencé con un título en Ciencias de la Computación, donde desarrollé una base sólida en principios de ingeniería de software, algoritmos y diseño de sistemas. Esta formación académica proporcionó la profundidad técnica necesaria para abordar desafíos complejos."
+      },
+      "career": {
+        "title": "Desarrollo Profesional",
+        "description": "Trabajé con empresas tecnológicas líderes y startups innovadoras, ganando experiencia en toda la pila. Desde construir MVPs hasta escalar productos a millones de usuarios, cada proyecto enseñó lecciones valiosas sobre lo que hace que el software sea excelente."
+      },
+      "expertise": {
+        "title": "Experiencia Actual",
+        "description": "Hoy, me enfoco en ayudar a las empresas a transformar sus ideas en realidad a través de tecnologías web de vanguardia. Mi experiencia abarca frameworks frontend, arquitecturas backend, infraestructura en la nube y todo lo demás."
+      }
+    },
+    "cta": {
+      "title": "Trabajemos Juntos",
+      "description": "Siempre estoy interesado en escuchar sobre nuevos proyectos y oportunidades. Ya sea que tenga una pregunta o solo quiera saludar, ¡no dude en contactarme!",
+      "button": "Ponerse en Contacto"
+    }
+  },
+  "contact": {
+    "title": "Póngase en Contacto",
+    "subtitle": "¿Tiene un proyecto en mente o solo quiere charlar? Me encantaría saber de usted. Envíeme un mensaje y responderé lo antes posible.",
+    "info": {
+      "title": "Información de Contacto",
+      "email": {
+        "label": "Correo Electrónico"
+      },
+      "phone": {
+        "label": "Teléfono"
+      },
+      "location": {
+        "label": "Ubicación"
+      },
+      "hours": {
+        "label": "Horario Comercial"
+      }
+    },
+    "social": {
+      "title": "Sígueme"
+    },
+    "availability": {
+      "title": "Disponibilidad Actual",
+      "description": "Actualmente estoy disponible para proyectos freelance y oportunidades de consultoría. Hablemos sobre cómo puedo ayudar a hacer realidad su visión."
+    },
+    "form": {
+      "title": "Envíame un Mensaje",
+      "name": {
+        "label": "Su Nombre",
+        "placeholder": "Juan Pérez"
+      },
+      "email": {
+        "label": "Su Correo Electrónico",
+        "placeholder": "juan@ejemplo.com"
+      },
+      "subject": {
+        "label": "Asunto",
+        "placeholder": "Consulta del Proyecto"
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Cuéntame sobre tu proyecto..."
+      },
+      "submit": "Enviar Mensaje",
+      "response": "Normalmente respondo en 24 horas."
+    }
+  },
+  "servicesPage": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones digitales integrales adaptadas a sus necesidades. Desde el concepto hasta el lanzamiento, proporcionamos servicios de extremo a extremo que generan resultados.",
+    "startingFrom": "Desde",
+    "getStarted": "Comenzar",
+    "services": {
+      "webDev": {
+        "title": "Desarrollo Web",
+        "description": "Aplicaciones web personalizadas construidas con tecnologías de vanguardia para un rendimiento y escalabilidad óptimos.",
+        "price": "$2,500",
+        "features": [
+          "Diseño responsivo para todos los dispositivos",
+          "Frameworks modernos (React, Next.js, Vue)",
+          "Integración de API y desarrollo backend",
+          "Optimización de rendimiento",
+          "Mejores prácticas de SEO"
+        ]
+      },
+      "appDesign": {
+        "title": "Diseño de Aplicaciones",
+        "description": "Diseño centrado en el usuario que crea experiencias atractivas e impulsa la satisfacción del usuario.",
+        "price": "$1,500",
+        "features": [
+          "Investigación de usuarios y personas",
+          "Wireframing y prototipado",
+          "Diseño visual y branding",
+          "Pruebas de usabilidad",
+          "Creación de sistemas de diseño"
+        ]
+      },
+      "apiIntegration": {
+        "title": "Integración de API",
+        "description": "Integración perfecta de servicios de terceros y desarrollo de API personalizadas.",
+        "price": "$1,000",
+        "features": [
+          "Desarrollo de API RESTful",
+          "Integración de servicios de terceros",
+          "Documentación de API",
+          "Autenticación segura",
+          "Limitación de velocidad y caché"
+        ]
+      },
+      "uiux": {
+        "title": "Diseño UI/UX",
+        "description": "Interfaces hermosas combinadas con experiencias de usuario intuitivas que los usuarios adoran.",
+        "price": "$1,800",
+        "features": [
+          "Optimización de flujo de usuario",
+          "Prototipos interactivos",
+          "Cumplimiento de accesibilidad",
+          "Diseño mobile-first",
+          "Estrategia de pruebas A/B"
+        ]
+      },
+      "performance": {
+        "title": "Optimización de Rendimiento",
+        "description": "Acelere su aplicación y mejore la experiencia del usuario con optimización experta.",
+        "price": "$1,200",
+        "features": [
+          "División de código y carga diferida",
+          "Optimización de imágenes y recursos",
+          "Estrategias de caché",
+          "Optimización de consultas de base de datos",
+          "Implementación de CDN"
+        ]
+      },
+      "security": {
+        "title": "Auditoría de Seguridad",
+        "description": "Evaluación de seguridad integral e implementación de mejores prácticas.",
+        "price": "$2,000",
+        "features": [
+          "Evaluación de vulnerabilidades",
+          "Pruebas de penetración",
+          "Cumplimiento de seguridad (GDPR, HIPAA)",
+          "Implementación de cifrado",
+          "Capacitación en seguridad"
+        ]
+      }
+    },
+    "process": {
+      "title": "Nuestro Proceso",
+      "subtitle": "Una metodología probada que garantiza la entrega exitosa del proyecto de principio a fin.",
+      "steps": {
+        "discovery": {
+          "title": "Descubrimiento",
+          "description": "Comenzamos entendiendo sus objetivos comerciales, audiencia objetivo y requisitos del proyecto a través de una consulta en profundidad."
+        },
+        "planning": {
+          "title": "Planificación",
+          "description": "Creando una hoja de ruta detallada del proyecto, arquitectura técnica y maquetas de diseño para su aprobación."
+        },
+        "development": {
+          "title": "Desarrollo",
+          "description": "Construyendo su solución con metodología ágil, actualizaciones regulares y pruebas continuas durante todo el proceso."
+        },
+        "launch": {
+          "title": "Lanzamiento y Soporte",
+          "description": "Desplegando su proyecto en producción con pruebas integrales, capacitación y soporte continuo."
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Comenzar Su Proyecto?",
+      "description": "Hablemos sobre cómo podemos ayudarlo a lograr sus objetivos y hacer realidad su visión.",
+      "button": "Ponerse en Contacto"
+    }
+  }
+}
+

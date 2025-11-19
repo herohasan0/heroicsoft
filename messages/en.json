@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "letsTalk": "Let's Talk"
+  },
+  "hero": {
+    "availableBadge": "Available for new projects",
+    "title": "Building Scalable",
+    "titleHighlight": "Digital Products",
+    "description": "I help startups and agencies craft high-fidelity web experiences that convert. Minimalist design, maximum performance.",
+    "hireMe": "Hire Me",
+    "trustedBy": "Trusted by teams at"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Premium technical services packaged as products. Clear pricing, defined scope, exceptional results.",
+    "webDev": {
+      "title": "Web Development",
+      "description": "Scalable, high-performance websites built with Next.js and React.",
+      "price": "From $2,500"
+    },
+    "appDesign": {
+      "title": "App Design",
+      "description": "User-centric UI/UX design for mobile and web applications.",
+      "price": "From $1,500"
+    },
+    "apiIntegration": {
+      "title": "API Integration",
+      "description": "Seamless integration of third-party APIs and backend services.",
+      "price": "From $1,000"
+    },
+    "bookNow": "Book Now"
+  },
+  "footer": {
+    "cta": "Let's build something",
+    "ctaHighlight": "extraordinary.",
+    "startProject": "Start a Project",
+    "navigation": "Navigation",
+    "socials": "Socials",
+    "newsletter": "Subscribe to newsletter",
+    "emailPlaceholder": "email@example.com",
+    "join": "Join",
+    "copyright": "© 2025 Heroicsoft. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "links": {
+      "services": "Services",
+      "about": "About",
+      "twitter": "Twitter",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "email": "Email"
+    }
+  },
+  "privacy": {
+    "badge": "Legal Document",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated",
+    "intro": "At Heroicsoft, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you use our services.",
+    "dataCollection": {
+      "title": "Information We Collect",
+      "content": "We collect information that you provide directly to us, including when you create an account, contact us, or use our services. This may include:",
+      "items": [
+        "Personal identification information (name, email address, phone number)",
+        "Professional information (company name, job title)",
+        "Technical data (IP address, browser type, device information)",
+        "Usage data (pages visited, time spent on site, interaction with features)"
+      ]
+    },
+    "dataUsage": {
+      "title": "How We Use Your Information",
+      "content": "We use the collected information for various purposes to provide and improve our services:",
+      "items": [
+        "To provide, maintain, and improve our services",
+        "To communicate with you about updates, offers, and support",
+        "To personalize your experience and deliver relevant content",
+        "To analyze usage patterns and optimize our platform",
+        "To detect, prevent, and address technical issues or fraudulent activities"
+      ]
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "We implement industry-standard security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. Our security practices include encryption, secure servers, regular security audits, and strict access controls. However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security."
+    },
+    "cookies": {
+      "title": "Cookies and Tracking Technologies",
+      "content": "We use cookies and similar tracking technologies to enhance your browsing experience, analyze site traffic, and understand user preferences. You can control cookie settings through your browser preferences. Disabling cookies may affect some functionality of our services."
+    },
+    "rights": {
+      "title": "Your Rights and Choices",
+      "content": "You have certain rights regarding your personal information:",
+      "items": [
+        "Access: Request access to the personal data we hold about you",
+        "Correction: Request correction of inaccurate or incomplete data",
+        "Deletion: Request deletion of your personal data, subject to legal obligations",
+        "Opt-out: Unsubscribe from marketing communications at any time",
+        "Data Portability: Request a copy of your data in a structured format"
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please don't hesitate to contact us:",
+      "email": "help@heroicsoft.com"
+    }
+  },
+  "terms": {
+    "badge": "Terms & Conditions",
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated",
+    "intro": "Welcome to Heroicsoft. By accessing and using our services, you agree to be bound by these Terms of Service. Please read them carefully before using our platform.",
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing or using Heroicsoft's services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our Privacy Policy. If you do not agree to these terms, please do not use our services. We reserve the right to modify these terms at any time, and your continued use of our services constitutes acceptance of any changes."
+    },
+    "services": {
+      "title": "Description of Services",
+      "content": "Heroicsoft provides web development, design, and digital product services. We offer:",
+      "items": [
+        "Custom web application development and design",
+        "API integration and backend services",
+        "UI/UX design and consultation",
+        "Technical support and maintenance",
+        "Project management and delivery"
+      ]
+    },
+    "userResponsibilities": {
+      "title": "User Responsibilities",
+      "content": "As a user of our services, you agree to:",
+      "items": [
+        "Provide accurate and complete information when required",
+        "Maintain the confidentiality of your account credentials",
+        "Comply with all applicable laws and regulations",
+        "Not interfere with the proper functioning of our services",
+        "Respect intellectual property rights of Heroicsoft and third parties",
+        "Use our services only for lawful purposes"
+      ]
+    },
+    "prohibited": {
+      "title": "Prohibited Activities",
+      "content": "You may not use our services to:",
+      "items": [
+        "Violate any laws or regulations",
+        "Infringe on intellectual property rights",
+        "Transmit harmful or malicious code",
+        "Attempt to gain unauthorized access to our systems",
+        "Engage in any form of harassment or abusive behavior",
+        "Impersonate others or misrepresent your affiliation",
+        "Collect or harvest data without permission"
+      ]
+    },
+    "intellectual": {
+      "title": "Intellectual Property Rights",
+      "content": "All content, features, and functionality of our services, including but not limited to text, graphics, logos, designs, and software, are the exclusive property of Heroicsoft and are protected by international copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, modify, or create derivative works without our express written permission."
+    },
+    "limitation": {
+      "title": "Limitation of Liability",
+      "content": "To the maximum extent permitted by law, Heroicsoft shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from your use of our services. Our total liability shall not exceed the amount paid by you for our services in the past 12 months."
+    },
+    "notice": {
+      "title": "Changes to Terms",
+      "content": "We reserve the right to update these Terms of Service at any time. We will notify you of any material changes by posting the new terms on this page and updating the 'Last Updated' date. Your continued use of our services after such modifications constitutes your acceptance of the updated terms."
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "role": "Full Stack Developer & Designer",
+    "intro": {
+      "paragraph1": "I'm a passionate digital creator with over 8 years of experience building exceptional web experiences. My journey in tech started with a curiosity about how things work and evolved into a career dedicated to crafting scalable, user-centric digital products.",
+      "paragraph2": "I specialize in modern web technologies, combining technical expertise with creative design thinking to deliver solutions that not only look great but perform exceptionally well."
+    },
+    "stats": {
+      "projects": {
+        "value": "150+",
+        "label": "Projects Completed"
+      },
+      "clients": {
+        "value": "80+",
+        "label": "Happy Clients"
+      },
+      "experience": {
+        "value": "8+",
+        "label": "Years Experience"
+      },
+      "satisfaction": {
+        "value": "100%",
+        "label": "Client Satisfaction"
+      }
+    },
+    "skills": {
+      "title": "What I Do Best",
+      "development": {
+        "title": "Development",
+        "description": "Building scalable web applications with modern frameworks like React, Next.js, and Node.js."
+      },
+      "design": {
+        "title": "Design",
+        "description": "Creating intuitive user interfaces with a focus on usability and aesthetic appeal."
+      },
+      "performance": {
+        "title": "Performance",
+        "description": "Optimizing applications for speed, efficiency, and exceptional user experience."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Working seamlessly with teams to deliver projects on time and exceed expectations."
+      }
+    },
+    "journey": {
+      "title": "My Journey",
+      "education": {
+        "title": "Education & Foundation",
+        "description": "Started with a degree in Computer Science, where I developed a strong foundation in software engineering principles, algorithms, and system design. This academic background provided the technical depth needed to tackle complex challenges."
+      },
+      "career": {
+        "title": "Career Development",
+        "description": "Worked with leading tech companies and innovative startups, gaining experience across the full stack. From building MVPs to scaling products to millions of users, each project taught valuable lessons about what makes great software."
+      },
+      "expertise": {
+        "title": "Current Expertise",
+        "description": "Today, I focus on helping businesses transform their ideas into reality through cutting-edge web technologies. My expertise spans frontend frameworks, backend architectures, cloud infrastructure, and everything in between."
+      }
+    },
+    "cta": {
+      "title": "Let's Work Together",
+      "description": "I'm always interested in hearing about new projects and opportunities. Whether you have a question or just want to say hi, feel free to reach out!",
+      "button": "Get In Touch"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a project in mind or just want to chat? I'd love to hear from you. Send me a message and I'll respond as soon as possible.",
+    "info": {
+      "title": "Contact Information",
+      "email": {
+        "label": "Email"
+      },
+      "phone": {
+        "label": "Phone"
+      },
+      "location": {
+        "label": "Location"
+      },
+      "hours": {
+        "label": "Business Hours"
+      }
+    },
+    "social": {
+      "title": "Follow Me"
+    },
+    "availability": {
+      "title": "Current Availability",
+      "description": "I'm currently available for freelance projects and consulting opportunities. Let's discuss how I can help bring your vision to life."
+    },
+    "form": {
+      "title": "Send Me a Message",
+      "name": {
+        "label": "Your Name",
+        "placeholder": "John Doe"
+      },
+      "email": {
+        "label": "Your Email",
+        "placeholder": "john@example.com"
+      },
+      "subject": {
+        "label": "Subject",
+        "placeholder": "Project Inquiry"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell me about your project..."
+      },
+      "submit": "Send Message",
+      "response": "I typically respond within 24 hours."
+    }
+  },
+  "servicesPage": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive digital solutions tailored to your needs. From concept to launch, we provide end-to-end services that drive results.",
+    "startingFrom": "Starting from",
+    "getStarted": "Get Started",
+    "services": {
+      "webDev": {
+        "title": "Web Development",
+        "description": "Custom web applications built with cutting-edge technologies for optimal performance and scalability.",
+        "price": "$2,500",
+        "features": [
+          "Responsive design for all devices",
+          "Modern frameworks (React, Next.js, Vue)",
+          "API integration and backend development",
+          "Performance optimization",
+          "SEO best practices"
+        ]
+      },
+      "appDesign": {
+        "title": "App Design",
+        "description": "User-centered design that creates engaging experiences and drives user satisfaction.",
+        "price": "$1,500",
+        "features": [
+          "User research and personas",
+          "Wireframing and prototyping",
+          "Visual design and branding",
+          "Usability testing",
+          "Design system creation"
+        ]
+      },
+      "apiIntegration": {
+        "title": "API Integration",
+        "description": "Seamless integration of third-party services and custom API development.",
+        "price": "$1,000",
+        "features": [
+          "RESTful API development",
+          "Third-party service integration",
+          "API documentation",
+          "Secure authentication",
+          "Rate limiting and caching"
+        ]
+      },
+      "uiux": {
+        "title": "UI/UX Design",
+        "description": "Beautiful interfaces combined with intuitive user experiences that users love.",
+        "price": "$1,800",
+        "features": [
+          "User flow optimization",
+          "Interactive prototypes",
+          "Accessibility compliance",
+          "Mobile-first design",
+          "A/B testing strategy"
+        ]
+      },
+      "performance": {
+        "title": "Performance Optimization",
+        "description": "Speed up your application and improve user experience with expert optimization.",
+        "price": "$1,200",
+        "features": [
+          "Code splitting and lazy loading",
+          "Image and asset optimization",
+          "Caching strategies",
+          "Database query optimization",
+          "CDN implementation"
+        ]
+      },
+      "security": {
+        "title": "Security Audit",
+        "description": "Comprehensive security assessment and implementation of best practices.",
+        "price": "$2,000",
+        "features": [
+          "Vulnerability assessment",
+          "Penetration testing",
+          "Security compliance (GDPR, HIPAA)",
+          "Encryption implementation",
+          "Security training"
+        ]
+      }
+    },
+    "process": {
+      "title": "Our Process",
+      "subtitle": "A proven methodology that ensures successful project delivery from start to finish.",
+      "steps": {
+        "discovery": {
+          "title": "Discovery",
+          "description": "We start by understanding your business goals, target audience, and project requirements through in-depth consultation."
+        },
+        "planning": {
+          "title": "Planning",
+          "description": "Creating detailed project roadmap, technical architecture, and design mockups for your approval."
+        },
+        "development": {
+          "title": "Development",
+          "description": "Building your solution with agile methodology, regular updates, and continuous testing throughout the process."
+        },
+        "launch": {
+          "title": "Launch & Support",
+          "description": "Deploying your project to production with comprehensive testing, training, and ongoing support."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "description": "Let's discuss how we can help you achieve your goals and bring your vision to life.",
+      "button": "Get In Touch"
+    }
+  }
+}
+

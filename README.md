@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio
+
+A modern portfolio website built with React, React Router, and Vite.
+
+## Features
+
+- 🌍 Multi-language support (English, Turkish, Spanish)
+- 🌓 Dark mode support
+- 📱 Responsive design
+- ⚡ Fast and optimized with Vite
+- 🎨 Modern UI with Tailwind CSS and Framer Motion
+
+## Tech Stack
+
+- **React 19** - UI library
+- **React Router 7** - Client-side routing
+- **Vite** - Build tool and dev server
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Styling
+- **Framer Motion** - Animations
+- **next-themes** - Theme management
+- **Resend** - Email sending service
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
+- Node.js 18+ 
+- npm or yarn
+
+### Installation
+
+1. Install dependencies:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Start the development server:
+```bash
+npm run dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Build for production:
+```bash
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Preview production build:
+```bash
+npm run preview
+```
 
-## Learn More
+## Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```
+src/
+├── components/     # Reusable React components
+├── pages/          # Page components
+├── i18n/           # Internationalization setup
+├── globals.css     # Global styles
+├── App.tsx         # Main app component with routing
+└── main.tsx        # Entry point
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+public/             # Static assets
+messages/           # Translation files (JSON)
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Routing
 
-## Deploy on Vercel
+The app uses React Router with locale-based routing:
+- `/` - Redirects to default locale
+- `/:locale` - Home page for locale
+- `/:locale/about` - About page
+- `/:locale/contact` - Contact page
+- `/:locale/services` - Services page
+- `/:locale/privacy` - Privacy policy
+- `/:locale/terms` - Terms of service
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Supported locales: `en`, `tr`, `es`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Internationalization
+
+Translations are stored in JSON files in the `messages/` directory. The i18n system automatically loads the correct translations based on the current locale.
+
+## Contact Form
+
+The contact form uses **Resend** via a backend Express API server (required to avoid CORS issues).
+
+### Setup
+
+1. Get your Resend API key from [Resend](https://resend.com/api-keys)
+2. Create a `.env` file in the root directory:
+   ```env
+   RESEND_API_KEY=your_resend_api_key_here
+   RESEND_FROM_EMAIL=Contact Form <onboarding@resend.dev>
+   RESEND_TO_EMAIL=your-email@example.com
+   PORT=3001
+   ```
+
+### Running the App
+
+Run both frontend and backend:
+```bash
+npm run dev
+```
+
+This starts:
+- Frontend: http://localhost:5173 (Vite)
+- Backend API: http://localhost:3001 (Express)
+
+The Vite dev server automatically proxies `/api` requests to the backend server.
+
+## License
+
+Private project - All rights reserved
