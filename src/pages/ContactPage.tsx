@@ -34,22 +34,29 @@ export default function ContactPage() {
     setErrorMessage('');
 
     try {
-      // Use backend API to avoid CORS issues
-      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+      // Using EmailJS - client-side email sending (no backend needed)
+      const emailjs = (await import('@emailjs/browser')).default;
       
-      const response = await fetch(`${API_URL}/api/contact`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(formData),
-      });
+      const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
+      const TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
+      const PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
 
-      const data = await response.json();
-
-      if (!response.ok) {
-        throw new Error(data.error || 'Failed to send message');
+      if (!SERVICE_ID || !TEMPLATE_ID || !PUBLIC_KEY) {
+        throw new Error('EmailJS is not configured. Please set up your EmailJS credentials in .env file.');
       }
+
+      await emailjs.send(
+        SERVICE_ID,
+        TEMPLATE_ID,
+        {
+          from_name: formData.name,
+          from_email: formData.email,
+          subject: formData.subject,
+          message: formData.message,
+          reply_to: formData.email,
+        },
+        PUBLIC_KEY
+      );
 
       setStatus('success');
       setFormData({

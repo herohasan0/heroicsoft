@@ -1,6 +1,7 @@
 import { motion, useMotionTemplate, useMotionValue } from "framer-motion";
 import { Code, Smartphone, Database, ArrowUpRight } from "lucide-react";
 import { useTranslations, useLocale } from '@/i18n';
+import { Link } from "@/components/Link";
 
 const getServiceIcon = (serviceType: string) => {
   switch (serviceType) {
@@ -84,9 +85,9 @@ function ServiceCard({ serviceKey, index }: { serviceKey: string; index: number 
         <span className="text-sm font-medium text-slate-500 dark:text-slate-400">
           {cardPrice}
         </span>
-        <button className="px-4 py-2 bg-slate-900 dark:bg-white text-white dark:text-slate-950 text-sm font-medium rounded-lg hover:bg-slate-800 dark:hover:bg-slate-200 transition-colors">
+        <Link href="/contact" className="px-4 py-2 bg-slate-900 dark:bg-white text-white dark:text-slate-950 text-sm font-medium rounded-lg hover:bg-slate-800 dark:hover:bg-slate-200 transition-colors inline-block">
           {t('bookNow')}
-        </button>
+        </Link>
       </div>
     </motion.div>
   );

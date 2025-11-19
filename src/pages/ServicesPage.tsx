@@ -90,10 +90,10 @@ function ServiceCard({ serviceKey, index }: { serviceKey: string; index: number 
               {t(`services.${serviceKey}.price`)}
             </p>
           </div>
-          <button className="px-6 py-3 bg-slate-900 dark:bg-white text-white dark:text-slate-950 rounded-lg font-medium hover:bg-slate-800 dark:hover:bg-slate-200 transition-colors flex items-center gap-2">
+          <Link href="/contact" className="px-6 py-3 bg-slate-900 dark:bg-white text-white dark:text-slate-950 rounded-lg font-medium hover:bg-slate-800 dark:hover:bg-slate-200 transition-colors flex items-center gap-2 inline-flex">
             {t('getStarted')}
             <ArrowRight className="w-4 h-4" />
-          </button>
+          </Link>
         </div>
       </div>
     </motion.div>

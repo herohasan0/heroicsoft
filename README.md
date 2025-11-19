@@ -84,31 +84,29 @@ Translations are stored in JSON files in the `messages/` directory. The i18n sys
 
 ## Contact Form
 
-The contact form uses **Resend** via a backend Express API server (required to avoid CORS issues).
+The contact form uses **EmailJS** for sending emails directly from the browser (no backend needed).
 
 ### Setup
 
-1. Get your Resend API key from [Resend](https://resend.com/api-keys)
-2. Create a `.env` file in the root directory:
+1. Sign up for a free account at [EmailJS](https://www.emailjs.com/)
+2. Create an email service (Gmail, Outlook, etc.)
+3. Create an email template
+4. Get your Service ID, Template ID, and Public Key
+5. Create a `.env` file in the root directory:
    ```env
-   RESEND_API_KEY=your_resend_api_key_here
-   RESEND_FROM_EMAIL=Contact Form <onboarding@resend.dev>
-   RESEND_TO_EMAIL=your-email@example.com
-   PORT=3001
+   VITE_EMAILJS_SERVICE_ID=your_service_id
+   VITE_EMAILJS_TEMPLATE_ID=your_template_id
+   VITE_EMAILJS_PUBLIC_KEY=your_public_key
    ```
 
 ### Running the App
 
-Run both frontend and backend:
+Simply run:
 ```bash
 npm run dev
 ```
 
-This starts:
-- Frontend: http://localhost:5173 (Vite)
-- Backend API: http://localhost:3001 (Express)
-
-The Vite dev server automatically proxies `/api` requests to the backend server.
+No backend needed! EmailJS handles everything client-side.
 
 ## License
 
