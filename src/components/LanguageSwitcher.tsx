@@ -1,4 +1,4 @@
-import { useLocale, setLocale, locales, type Locale } from '@/i18n';
+import { useLocale, setLocale, type Locale } from '@/i18n';
 import { useNavigate, useParams, useLocation } from 'react-router-dom';
 import { useTransition } from 'react';
 import { Globe } from 'lucide-react';

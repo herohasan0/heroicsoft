@@ -1,7 +1,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { Link } from "@/components/Link";
 import { useState, useEffect } from "react";
-import { useTranslations, useLocale } from '@/i18n';
+import { useTranslations } from '@/i18n';
 import { Menu, X } from "lucide-react";
 
 import { ThemeToggle } from "@/components/ThemeToggle";

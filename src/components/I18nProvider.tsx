@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, ReactNode } from 'react';
-import { setLocale, getLocale, type Locale } from '@/i18n';
+import { setLocale, type Locale } from '@/i18n';
 
 const I18nContext = createContext<{ locale: Locale }>({ locale: 'en' });
 
