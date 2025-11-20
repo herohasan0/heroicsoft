@@ -18,7 +18,7 @@ export default function ContactPage() {
 
   const contactInfo = [
     { icon: Mail, key: 'email', value: 'help@heroicsoft.com' },
-    { icon: MapPin, key: 'location', value: 'San Francisco, CA' },
+    { icon: MapPin, key: 'location', value: 'Turkey' },
     { icon: Clock, key: 'hours', value: '9:00 AM - 6:00 PM PST' },
   ];
 
