@@ -45,6 +45,8 @@
     "copyright": "© 2025 Heroicsoft. Tüm hakları saklıdır.",
     "privacy": "Gizlilik Politikası",
     "terms": "Hizmet Şartları",
+    "distanceSales": "Mesafeli Satış Sözleşmesi",
+    "deliveryReturn": "Teslimat ve İade Şartları",
     "links": {
       "services": "Hizmetler",
       "about": "Hakkında",
@@ -58,50 +60,58 @@
     "badge": "Yasal Belge",
     "title": "Gizlilik Politikası",
     "lastUpdated": "Son Güncelleme",
-    "intro": "Heroicsoft olarak, gizliliğinizi korumaya ve kişisel bilgilerinizin güvenliğini sağlamaya kararlıyız. Bu Gizlilik Politikası, hizmetlerimizi kullandığınızda verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklamaktadır.",
+    "intro": "Heroicsoft olarak, gizliliğinize büyük önem veriyoruz. Bu gizlilik sözleşmesi, web sitemizi ziyaret eden ve hizmetlerimizi kullanan kişilerin bilgilerini nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklamaktadır.",
     "dataCollection": {
-      "title": "Topladığımız Bilgiler",
-      "content": "Doğrudan bize sağladığınız bilgileri topluyoruz; bu, hesap oluşturduğunuzda, bizimle iletişime geçtiğinizde veya hizmetlerimizi kullandığınızda içerebilir:",
+      "title": "Toplanan Bilgiler",
+      "content": "Sipariş verirken veya üyelik oluştururken sizinle iletişim kurabilmek ve hizmet sunabilmek için aşağıdaki bilgileri toplayabiliriz:",
       "items": [
-        "Kişisel kimlik bilgileri (ad, e-posta adresi, telefon numarası)",
-        "Profesyonel bilgiler (şirket adı, iş unvanı)",
-        "Teknik veriler (IP adresi, tarayıcı türü, cihaz bilgileri)",
-        "Kullanım verileri (ziyaret edilen sayfalar, sitede geçirilen süre, özelliklerle etkileşim)"
+        "İsim, soyisim",
+        "E-posta adresi",
+        "Telefon numarası",
+        "Fatura ve teslimat adresi",
+        "Web sitemizi ziyaret ettiğinizde cihazınıza, IP adresinize, tarayıcı türünüze ve site kullanım alışkanlıklarınıza ilişkin bilgiler toplanabilir. Bu bilgiler, sitemizin iyileştirilmesi ve kullanıcı deneyiminin geliştirilmesi için kullanılmaktadır."
       ]
     },
     "dataUsage": {
-      "title": "Bilgilerinizi Nasıl Kullanırız",
-      "content": "Toplanan bilgileri, hizmetlerimizi sağlamak ve geliştirmek için çeşitli amaçlarla kullanırız:",
+      "title": "Bilgilerin Kullanımı",
+      "content": "Toplanan bilgiler şu amaçlarla kullanılabilir:",
       "items": [
-        "Hizmetlerimizi sağlamak, sürdürmek ve geliştirmek için",
-        "Güncellemeler, teklifler ve destek hakkında sizinle iletişim kurmak için",
-        "Deneyiminizi kişiselleştirmek ve ilgili içerik sunmak için",
-        "Kullanım kalıplarını analiz etmek ve platformumuzu optimize etmek için",
-        "Teknik sorunları veya hileli faaliyetleri tespit etmek, önlemek ve ele almak için"
+        "Siparişlerin işlenmesi ve teslimatının yapılması",
+        "Size özel kampanyalar ve fırsatlar hakkında bilgilendirme yapılması",
+        "Web sitesinin performansını artırmak ve müşteri memnuniyetini sağlamak",
+        "Yasal yükümlülüklerin yerine getirilmesi"
       ]
     },
-    "dataSecurity": {
-      "title": "Veri Güvenliği",
-      "content": "Kişisel bilgilerinizi yetkisiz erişim, ifşa, değiştirme veya imhadan korumak için endüstri standardı güvenlik önlemleri uyguluyoruz. Güvenlik uygulamalarımız şifreleme, güvenli sunucular, düzenli güvenlik denetimleri ve katı erişim kontrolleri içerir. Ancak, internet üzerinden hiçbir iletim yöntemi %100 güvenli değildir ve mutlak güvenliği garanti edemeyiz."
+    "dataSharing": {
+      "title": "Bilgilerin Paylaşımı",
+      "content": "Heroicsoft, kişisel bilgilerinizi hiçbir şekilde üçüncü taraflara satmaz veya kiralamaz. Ancak aşağıdaki durumlarda bilgilerinizi paylaşabiliriz:",
+      "items": [
+        "Siparişlerinizi teslim etmek için kargo firmalarıyla",
+        "Yasal düzenlemelere uygun olarak yetkili resmi mercilerle",
+        "Web sitemizin analitik hizmetlerini sağlayan güvenilir üçüncü taraflarla"
+      ]
     },
     "cookies": {
-      "title": "Çerezler ve İzleme Teknolojileri",
-      "content": "Tarama deneyiminizi geliştirmek, site trafiğini analiz etmek ve kullanıcı tercihlerini anlamak için çerezler ve benzeri izleme teknolojileri kullanıyoruz. Tarayıcı tercihleriniz aracılığıyla çerez ayarlarını kontrol edebilirsiniz. Çerezleri devre dışı bırakmak, hizmetlerimizin bazı işlevlerini etkileyebilir."
+      "title": "Çerezler (Cookies)",
+      "content": "Web sitemiz, kullanıcı deneyimini geliştirmek ve daha iyi bir hizmet sunmak için çerezler kullanır. Çerezler, cihazınıza kaydedilen küçük metin dosyalarıdır. Çerezleri kabul etmek veya reddetmek tamamen sizin tercihinize bağlıdır. Ancak çerezlerin devre dışı bırakılması, bazı web sitesi işlevlerinin çalışmamasına neden olabilir."
+    },
+    "dataSecurity": {
+      "title": "Güvenlik",
+      "content": "Kişisel bilgilerinizin güvenliğini sağlamak için gerekli tüm teknik ve idari önlemleri alıyoruz. Ancak, internet üzerinden veri aktarımının tamamen güvenli olduğuna dair garanti veremeyeceğimizi hatırlatmak isteriz."
     },
     "rights": {
-      "title": "Haklarınız ve Seçimleriniz",
-      "content": "Kişisel bilgilerinizle ilgili belirli haklara sahipsiniz:",
+      "title": "Haklarınız",
+      "content": "6698 Sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında aşağıdaki haklara sahipsiniz:",
       "items": [
-        "Erişim: Hakkınızda tuttuğumuz kişisel verilere erişim talep edin",
-        "Düzeltme: Hatalı veya eksik verilerin düzeltilmesini talep edin",
-        "Silme: Yasal yükümlülüklere tabi olarak kişisel verilerinizin silinmesini talep edin",
-        "Vazgeçme: Pazarlama iletişimlerinden istediğiniz zaman aboneliğinizi iptal edin",
-        "Veri Taşınabilirliği: Yapılandırılmış bir formatta verilerinizin bir kopyasını talep edin"
+        "Kişisel verilerinizin işlenip işlenmediğini öğrenme",
+        "İşlenen veriler hakkında bilgi talep etme",
+        "Verilerinizin düzeltilmesini veya silinmesini talep etme",
+        "Verilerinizin işlenmesine itiraz etme"
       ]
     },
     "contact": {
       "title": "İletişim",
-      "content": "Bu Gizlilik Politikası veya veri uygulamalarımız ile ilgili herhangi bir sorunuz, endişeniz veya talebiniz varsa, lütfen bizimle iletişime geçmekten çekinmeyin:",
+      "content": "Gizlilik politikamızla ilgili sorularınız veya endişeleriniz için bizimle iletişime geçebilirsiniz:",
       "email": "help@heroicsoft.com"
     }
   },
@@ -161,6 +171,165 @@
     "notice": {
       "title": "Şartlardaki Değişiklikler",
       "content": "Bu Hizmet Şartlarını herhangi bir zamanda güncelleme hakkını saklı tutarız. Yeni şartları bu sayfada yayınlayarak ve 'Son Güncelleme' tarihini güncelleyerek önemli değişiklikleri size bildireceğiz. Bu tür değişikliklerden sonra hizmetlerimizi kullanmaya devam etmeniz, güncellenmiş şartları kabul ettiğiniz anlamına gelir."
+    }
+  },
+  "distanceSales": {
+    "badge": "Yasal Belge",
+    "title": "Mesafeli Satış Sözleşmesi",
+    "lastUpdated": "Son Güncelleme",
+    "intro": "Bu sözleşme, Alıcı'nın, Satıcı'ya ait web sitesinden elektronik ortamda sipariş verdiği ürün/hizmetin satışı ve teslimi ile ilgili olarak, 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmeler Yönetmeliği hükümleri gereğince tarafların hak ve yükümlülüklerini düzenler.",
+    "parties": {
+      "title": "MADDE 1 – TARAFLAR",
+      "content": "Bu sözleşmenin tarafları aşağıda belirtilmiştir:",
+      "subsections": [
+        {
+          "title": "Satıcı:",
+          "content": "",
+          "items": [
+            "Unvan: Heroicsoft",
+            "Adres: Dağçeşme mah. Dumlupınar cad. No: 4/2 Tavşanlı / Kütahya",
+            "Telefon: +90 546 250 6037",
+            "E-posta: help@heroicsoft.com"
+          ]
+        },
+        {
+          "title": "Alıcı:",
+          "content": "Sipariş veren kişi (\"Alıcı\") ve sipariş esnasında beyan ettiği bilgiler esas alınır."
+        }
+      ]
+    },
+    "subject": {
+      "title": "MADDE 2 – SÖZLEŞMENİN KONUSU",
+      "content": "Bu sözleşme, Alıcı'nın, Satıcı'ya ait web sitesinden elektronik ortamda sipariş verdiği aşağıda nitelikleri ve satış fiyatı belirtilen ürün/hizmetin satışı ve teslimi ile ilgili olarak, 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmeler Yönetmeliği hükümleri gereğince tarafların hak ve yükümlülüklerini düzenler."
+    },
+    "productInfo": {
+      "title": "MADDE 3 – ÜRÜN/HİZMET BİLGİLERİ",
+      "content": "Siparişe konu ürün/hizmetin cinsi ve türü, miktarı, marka/modeli, rengi, satış bedeli ve ödeme bilgileri siparişin tamamlandığı esnada Alıcı'ya sunulan bilgiler ve fatura üzerinde belirtildiği gibidir."
+    },
+    "general": {
+      "title": "MADDE 4 – GENEL HÜKÜMLER",
+      "content": "Aşağıdaki genel hükümler geçerlidir:",
+      "items": [
+        "Alıcı, web sitesinde sözleşme konusu ürün/hizmetin temel nitelikleri, satış fiyatı ve ödeme şekli ile teslimata ilişkin tüm ön bilgileri okuyup bilgi sahibi olduğunu ve elektronik ortamda gerekli teyidi verdiğini kabul eder.",
+        "Sözleşme konusu ürün/hizmet, yasal 30 günlük süreyi aşmamak koşulu ile her bir ürün/hizmet için Alıcı'nın yerleşim yerinin uzaklığına bağlı olarak internet sitesinde belirtilen süre içinde Alıcı veya Alıcı'nın gösterdiği adresteki kişi/kuruluşa teslim edilir.",
+        "Sözleşme konusu ürün, Alıcı'dan başka bir kişi/kuruluşa teslim edilecekse, teslim edilecek kişi/kuruluşun teslimatı kabul etmemesinden Satıcı sorumlu değildir.",
+        "Satıcı, sözleşme konusu ürün/hizmeti eksiksiz, siparişte belirtilen niteliklere uygun ve varsa garanti belgeleri ile teslim etmekle yükümlüdür.",
+        "Ürün teslimatında yaşanan gecikmeler, kargo firmasından veya mücbir sebeplerden kaynaklanıyorsa Satıcı sorumlu değildir.",
+        "Alıcı, sözleşme konusu ürünün tesliminden önce cayma hakkını kullanabilir."
+      ]
+    },
+    "rightOfWithdrawal": {
+      "title": "MADDE 5 – CAYMA HAKKI",
+      "content": "Alıcı, aşağıdaki koşullarda cayma hakkını kullanabilir:",
+      "subsections": [
+        {
+          "title": "5.1. Cayma Süresi",
+          "content": "Alıcı, ürünün kendisine veya gösterdiği adresteki kişi/kuruluşa tesliminden itibaren 14 gün içinde, hiçbir gerekçe göstermeksizin ve cezai şart ödemeksizin cayma hakkını kullanabilir."
+        },
+        {
+          "title": "5.2. Cayma Bildirimi",
+          "content": "Cayma hakkının kullanılması için, bu süre içinde Satıcı'ya yazılı olarak help@heroicsoft.com adresine bildirimde bulunulması gereklidir."
+        },
+        {
+          "title": "5.3. Cayma Hakkının Kullanılması Durumunda:",
+          "content": "",
+          "items": [
+            "Ürün, kullanılmamış ve orijinal ambalajında olmak kaydıyla Satıcı'ya iade edilmelidir.",
+            "İade kargo ücretleri, ürün kusurlu olmadıkça Alıcı tarafından karşılanır.",
+            "Satıcı, cayma hakkının kullanıldığına dair bildirimi aldıktan sonra, ürünü iade alır ve 14 gün içinde ürün bedelini Alıcı'ya iade eder."
+          ]
+        },
+        {
+          "title": "5.4. Cayma Hakkı Kapsamı Dışındaki Ürünler:",
+          "content": "",
+          "items": [
+            "Kişiye özel üretilen ürünler",
+            "Hızla bozulma riski olan veya son kullanma tarihi geçme ihtimali olan ürünler"
+          ]
+        }
+      ]
+    },
+    "disputes": {
+      "title": "MADDE 6 – UYUŞMAZLIKLARIN ÇÖZÜMÜ",
+      "content": "İşbu sözleşmeden doğan uyuşmazlıkların çözümünde, Tüketici Hakem Heyetleri ve Tüketici Mahkemeleri yetkilidir."
+    },
+    "effective": {
+      "title": "MADDE 7 – YÜRÜRLÜK",
+      "content": "Bu sözleşme, Alıcı tarafından elektronik ortamda onaylandığı tarihte yürürlüğe girer."
+    }
+  },
+  "deliveryReturn": {
+    "badge": "Yasal Belge",
+    "title": "Teslimat ve İade Şartları",
+    "lastUpdated": "Son Güncelleme",
+    "delivery": {
+      "title": "Teslimat Şartları",
+      "processingTime": {
+        "title": "Sipariş İşleme Süresi",
+        "content": "Yazılım hizmetleriniz, ödeme onaylandıktan sonra en geç 1-3 iş günü içinde aktif hale getirilir ve erişim bilgileri tarafınıza iletilir. Özel projeler ve kampanya dönemlerinde bu süre uzayabilir."
+      },
+      "deliveryTime": {
+        "title": "Hizmet Aktivasyon Süresi",
+        "content": "Yazılım hizmetlerinin teslim süreleri hizmet türüne göre değişiklik göstermektedir:",
+        "items": [
+          "Standart web geliştirme ve tasarım hizmetleri: Proje başlangıcından itibaren belirlenen süre içinde teslim edilir",
+          "API entegrasyonu ve backend hizmetleri: Genellikle 1-2 hafta içinde aktif hale getirilir",
+          "Özel yazılım projeleri: Proje kapsamına göre teslim süresi belirlenir ve müşteriye bildirilir"
+        ]
+      },
+      "deliveryFees": {
+        "title": "Hizmet Ücretleri",
+        "content": "Tüm yazılım hizmetlerimiz için ücretlendirme şeffaftır:",
+        "items": [
+          "Hizmet fiyatları, sipariş sırasında net olarak belirtilir",
+          "Ekstra özellikler veya değişiklikler için ek ücretlendirme yapılabilir",
+          "Tüm fiyatlar KDV dahil olarak gösterilir"
+        ]
+      },
+      "tracking": {
+        "title": "Hizmet Takibi",
+        "content": "Siparişiniz onaylandığında ve hizmetiniz aktif hale getirildiğinde, erişim bilgileri ve proje durumu tarafınıza e-posta yoluyla iletilir. Projenizin ilerlemesini düzenli olarak takip edebilirsiniz."
+      }
+    },
+    "return": {
+      "title": "İade ve Değişim Şartları",
+      "returnConditions": {
+        "title": "İade Koşulları",
+        "content": "Yazılım hizmetleri için iade koşulları aşağıdaki gibidir:",
+        "items": [
+          "Hizmet aktivasyonundan önce yapılan iade talepleri tam geri ödeme ile kabul edilir",
+          "Hizmet aktivasyonundan sonra ve proje başlamadan önce yapılan iade talepleri, yapılan çalışmalar dikkate alınarak değerlendirilir",
+          "Proje başladıktan sonra, tamamlanan iş oranına göre kısmi iade yapılabilir",
+          "Kişiye özel geliştirilen yazılım projelerinde, proje başladıktan sonra iade kabul edilmez"
+        ]
+      },
+      "returnProcess": {
+        "title": "İade Süreci",
+        "content": "İade talebinizi aşağıdaki adımları takip ederek gerçekleştirebilirsiniz:",
+        "items": [
+          "İade talebinizi help@heroicsoft.com e-posta adresine sipariş numaranız ve iade nedeniniz ile birlikte iletebilirsiniz",
+          "İade talebiniz en geç 2 iş günü içinde değerlendirilir ve size geri dönüş yapılır",
+          "Onaylanan iade talepleri için geri ödeme süreci başlatılır"
+        ]
+      },
+      "refundProcess": {
+        "title": "Geri Ödeme Süreci",
+        "content": "Geri ödemeler aşağıdaki şekilde gerçekleştirilir:",
+        "items": [
+          "Onaylanan iadelerde geri ödeme, ödeme yönteminize bağlı olarak 7-10 iş günü içinde gerçekleştirilir",
+          "Banka kartı ile yapılan ödemeler, aynı kart hesabına iade edilir",
+          "Havale/EFT ile yapılan ödemeler, belirttiğiniz hesap bilgilerine iade edilir"
+        ]
+      },
+      "exchangeConditions": {
+        "title": "Hizmet Değişikliği Koşulları",
+        "content": "Hizmet değişikliği veya güncelleme talepleriniz için help@heroicsoft.com adresinden bizimle iletişime geçebilirsiniz. Proje kapsamındaki değişiklikler, ek ücretlendirme gerektirebilir."
+      }
+    },
+    "contact": {
+      "title": "İletişim",
+      "content": "Sorularınız veya talepleriniz için bizimle iletişime geçmekten çekinmeyin:",
+      "email": "help@heroicsoft.com"
     }
   },
   "about": {

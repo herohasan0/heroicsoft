@@ -6,6 +6,10 @@ import { Link } from "@/components/Link";
 export default function Footer() {
   const t = useTranslations('footer');
   
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+  };
+  
   const socialIcons = [
     { key: 'twitter', icon: Twitter, href: 'https://x.com/hasannka_' },
     { key: 'github', icon: Github, href: 'https://github.com/herohasan0' },
@@ -27,7 +31,7 @@ export default function Footer() {
               {t('cta')} <br />
               <span className="text-slate-400 dark:text-slate-500">{t('ctaHighlight')}</span>
             </motion.h2>
-            <Link href="/contact" className="group inline-flex items-center gap-2 text-base sm:text-lg md:text-xl font-medium hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
+            <Link href="/contact" onClick={scrollToTop} className="group inline-flex items-center gap-2 text-base sm:text-lg md:text-xl font-medium hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
               {t('startProject')} <ArrowUpRight className="w-5 h-5 sm:w-6 sm:h-6 group-hover:-translate-y-1 group-hover:translate-x-1 transition-transform" />
             </Link>
           </div>
@@ -38,7 +42,7 @@ export default function Footer() {
               <ul className="space-y-2 sm:space-y-3">
                 {["services", "about"].map((item) => (
                   <li key={item}>
-                    <Link href={`/${item}`} className="hover:text-slate-600 dark:hover:text-slate-300 transition-colors text-sm sm:text-base">
+                    <Link href={`/${item}`} onClick={scrollToTop} className="hover:text-slate-600 dark:hover:text-slate-300 transition-colors text-sm sm:text-base">
                       {t(`links.${item}` as any)}
                     </Link>
                   </li>
@@ -51,7 +55,7 @@ export default function Footer() {
                 {socialIcons.map((item) => (
                   <li key={item.key}>
                     {item.key === 'email' ? (
-                      <Link href={item.href} className="flex items-center gap-2 hover:text-slate-600 dark:hover:text-slate-300 transition-colors text-sm sm:text-base">
+                      <Link href={item.href} onClick={scrollToTop} className="flex items-center gap-2 hover:text-slate-600 dark:hover:text-slate-300 transition-colors text-sm sm:text-base">
                         <item.icon className="w-3.5 h-3.5 sm:w-4 sm:h-4" /> {t(`links.${item.key}` as any)}
                       </Link>
                     ) : (
@@ -68,9 +72,11 @@ export default function Footer() {
 
         <div className="pt-6 sm:pt-8 border-t border-slate-200 dark:border-slate-800 flex flex-col md:flex-row items-center justify-between gap-3 sm:gap-4 text-slate-500 dark:text-slate-500 text-xs sm:text-sm">
           <p className="text-center md:text-left">{t('copyright')}</p>
-          <div className="flex gap-4 sm:gap-6">
-            <Link href="/privacy" className="hover:text-slate-900 dark:hover:text-white transition-colors">{t('privacy')}</Link>
-            <Link href="/terms" className="hover:text-slate-900 dark:hover:text-white transition-colors">{t('terms')}</Link>
+          <div className="flex gap-4 sm:gap-6 flex-wrap justify-center">
+            <Link href="/privacy" onClick={scrollToTop} className="hover:text-slate-900 dark:hover:text-white transition-colors">{t('privacy')}</Link>
+            <Link href="/terms" onClick={scrollToTop} className="hover:text-slate-900 dark:hover:text-white transition-colors">{t('terms')}</Link>
+            <Link href="/distance-sales" onClick={scrollToTop} className="hover:text-slate-900 dark:hover:text-white transition-colors">{t('distanceSales')}</Link>
+            <Link href="/delivery-return" onClick={scrollToTop} className="hover:text-slate-900 dark:hover:text-white transition-colors">{t('deliveryReturn')}</Link>
           </div>
         </div>
       </div>

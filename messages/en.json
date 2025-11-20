@@ -45,6 +45,8 @@
     "copyright": "© 2025 Heroicsoft. All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
+    "distanceSales": "Distance Sales Contract",
+    "deliveryReturn": "Delivery and Return Terms",
     "links": {
       "services": "Services",
       "about": "About",
@@ -58,50 +60,58 @@
     "badge": "Legal Document",
     "title": "Privacy Policy",
     "lastUpdated": "Last Updated",
-    "intro": "At Heroicsoft, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you use our services.",
+    "intro": "At Heroicsoft, we place great importance on your privacy. This privacy policy explains how we collect, use, and protect the information of individuals who visit our website and use our services.",
     "dataCollection": {
-      "title": "Information We Collect",
-      "content": "We collect information that you provide directly to us, including when you create an account, contact us, or use our services. This may include:",
+      "title": "Information Collected",
+      "content": "When placing an order or creating an account, we may collect the following information to be able to communicate with you and provide services:",
       "items": [
-        "Personal identification information (name, email address, phone number)",
-        "Professional information (company name, job title)",
-        "Technical data (IP address, browser type, device information)",
-        "Usage data (pages visited, time spent on site, interaction with features)"
+        "Name, surname",
+        "Email address",
+        "Phone number",
+        "Billing and delivery address",
+        "When you visit our website, information about your device, IP address, browser type, and site usage habits may be collected. This information is used to improve our site and enhance the user experience."
       ]
     },
     "dataUsage": {
-      "title": "How We Use Your Information",
-      "content": "We use the collected information for various purposes to provide and improve our services:",
+      "title": "Use of Information",
+      "content": "The collected information may be used for the following purposes:",
       "items": [
-        "To provide, maintain, and improve our services",
-        "To communicate with you about updates, offers, and support",
-        "To personalize your experience and deliver relevant content",
-        "To analyze usage patterns and optimize our platform",
-        "To detect, prevent, and address technical issues or fraudulent activities"
+        "Processing and delivery of orders",
+        "Informing you about special campaigns and offers",
+        "Improving website performance and ensuring customer satisfaction",
+        "Fulfilling legal obligations"
       ]
     },
-    "dataSecurity": {
-      "title": "Data Security",
-      "content": "We implement industry-standard security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. Our security practices include encryption, secure servers, regular security audits, and strict access controls. However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security."
+    "dataSharing": {
+      "title": "Sharing of Information",
+      "content": "Heroicsoft does not sell or rent your personal information to third parties in any way. However, we may share your information in the following cases:",
+      "items": [
+        "With shipping companies to deliver your orders",
+        "With authorized official authorities in accordance with legal regulations",
+        "With trusted third parties that provide analytical services for our website"
+      ]
     },
     "cookies": {
-      "title": "Cookies and Tracking Technologies",
-      "content": "We use cookies and similar tracking technologies to enhance your browsing experience, analyze site traffic, and understand user preferences. You can control cookie settings through your browser preferences. Disabling cookies may affect some functionality of our services."
+      "title": "Cookies",
+      "content": "Our website uses cookies to improve user experience and provide better service. Cookies are small text files saved on your device. Accepting or rejecting cookies is entirely your choice. However, disabling cookies may cause some website functions to not work."
+    },
+    "dataSecurity": {
+      "title": "Security",
+      "content": "We take all necessary technical and administrative measures to ensure the security of your personal information. However, we would like to remind you that we cannot guarantee that data transmission over the internet is completely secure."
     },
     "rights": {
-      "title": "Your Rights and Choices",
-      "content": "You have certain rights regarding your personal information:",
+      "title": "Your Rights",
+      "content": "Under the Personal Data Protection Law No. 6698 (KVKK), you have the following rights:",
       "items": [
-        "Access: Request access to the personal data we hold about you",
-        "Correction: Request correction of inaccurate or incomplete data",
-        "Deletion: Request deletion of your personal data, subject to legal obligations",
-        "Opt-out: Unsubscribe from marketing communications at any time",
-        "Data Portability: Request a copy of your data in a structured format"
+        "To learn whether your personal data is being processed",
+        "To request information about processed data",
+        "To request correction or deletion of your data",
+        "To object to the processing of your data"
       ]
     },
     "contact": {
-      "title": "Contact Us",
-      "content": "If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please don't hesitate to contact us:",
+      "title": "Contact",
+      "content": "You can contact us for questions or concerns regarding our privacy policy:",
       "email": "help@heroicsoft.com"
     }
   },
@@ -161,6 +171,165 @@
     "notice": {
       "title": "Changes to Terms",
       "content": "We reserve the right to update these Terms of Service at any time. We will notify you of any material changes by posting the new terms on this page and updating the 'Last Updated' date. Your continued use of our services after such modifications constitutes your acceptance of the updated terms."
+    }
+  },
+  "distanceSales": {
+    "badge": "Legal Document",
+    "title": "Distance Sales Contract",
+    "lastUpdated": "Last Updated",
+    "intro": "This contract regulates the rights and obligations of the parties regarding the sale and delivery of the product/service ordered by the Buyer electronically from the Seller's website, in accordance with the provisions of Law No. 6502 on the Protection of Consumers and the Distance Contracts Regulation.",
+    "parties": {
+      "title": "ARTICLE 1 – PARTIES",
+      "content": "The parties to this contract are specified below:",
+      "subsections": [
+        {
+          "title": "Seller:",
+          "content": "",
+          "items": [
+            "Company Name: Heroicsoft",
+            "Address: Dağçeşme mah. Dumlupınar cad. No: 4/2 Tavşanlı / Kütahya",
+            "Phone: +90 546 250 6037",
+            "Email: help@heroicsoft.com"
+          ]
+        },
+        {
+          "title": "Buyer:",
+          "content": "The person placing the order (\"Buyer\") and the information declared during the order are taken as basis."
+        }
+      ]
+    },
+    "subject": {
+      "title": "ARTICLE 2 – SUBJECT OF THE CONTRACT",
+      "content": "This contract regulates the rights and obligations of the parties regarding the sale and delivery of the product/service ordered by the Buyer electronically from the Seller's website, in accordance with the provisions of Law No. 6502 on the Protection of Consumers and the Distance Contracts Regulation."
+    },
+    "productInfo": {
+      "title": "ARTICLE 3 – PRODUCT/SERVICE INFORMATION",
+      "content": "The type and kind of the product/service subject to the order, quantity, brand/model, color, sales price and payment information are as specified in the information presented to the Buyer at the time the order is completed and on the invoice."
+    },
+    "general": {
+      "title": "ARTICLE 4 – GENERAL PROVISIONS",
+      "content": "The following general provisions apply:",
+      "items": [
+        "The Buyer accepts that he/she has read and been informed about all preliminary information regarding the basic characteristics of the product/service subject to the contract, sales price, payment method and delivery on the website, and has given the necessary confirmation in the electronic environment.",
+        "The product/service subject to the contract is delivered to the Buyer or the person/institution at the address indicated by the Buyer within the period specified on the website, depending on the distance of the Buyer's place of residence, provided that the legal 30-day period is not exceeded for each product/service.",
+        "If the product subject to the contract is to be delivered to a person/institution other than the Buyer, the Seller is not responsible for the person/institution to whom it will be delivered not accepting the delivery.",
+        "The Seller is obliged to deliver the product/service subject to the contract completely, in accordance with the qualifications specified in the order and with warranty documents, if any.",
+        "The Seller is not responsible for delays in product delivery if they arise from the shipping company or force majeure.",
+        "The Buyer may exercise the right of withdrawal before the delivery of the product subject to the contract."
+      ]
+    },
+    "rightOfWithdrawal": {
+      "title": "ARTICLE 5 – RIGHT OF WITHDRAWAL",
+      "content": "The Buyer may exercise the right of withdrawal under the following conditions:",
+      "subsections": [
+        {
+          "title": "5.1. Withdrawal Period",
+          "content": "The Buyer may exercise the right of withdrawal within 14 days from the delivery of the product to him/her or to the person/institution at the address indicated by him/her, without giving any reason and without paying any penalty."
+        },
+        {
+          "title": "5.2. Withdrawal Notification",
+          "content": "In order to exercise the right of withdrawal, it is necessary to notify the Seller in writing to help@heroicsoft.com within this period."
+        },
+        {
+          "title": "5.3. In Case of Exercise of Right of Withdrawal:",
+          "content": "",
+          "items": [
+            "The product must be returned to the Seller unused and in its original packaging.",
+            "Return shipping costs are borne by the Buyer unless the product is defective.",
+            "After receiving the notification that the right of withdrawal has been exercised, the Seller receives the product back and refunds the product price to the Buyer within 14 days."
+          ]
+        },
+        {
+          "title": "5.4. Products Outside the Scope of Right of Withdrawal:",
+          "content": "",
+          "items": [
+            "Products produced specifically for the person",
+            "Products with risk of rapid deterioration or possibility of expiration date"
+          ]
+        }
+      ]
+    },
+    "disputes": {
+      "title": "ARTICLE 6 – RESOLUTION OF DISPUTES",
+      "content": "Consumer Arbitration Committees and Consumer Courts are authorized to resolve disputes arising from this contract."
+    },
+    "effective": {
+      "title": "ARTICLE 7 – EFFECTIVENESS",
+      "content": "This contract enters into force on the date it is approved by the Buyer in the electronic environment."
+    }
+  },
+  "deliveryReturn": {
+    "badge": "Legal Document",
+    "title": "Delivery and Return Terms",
+    "lastUpdated": "Last Updated",
+    "delivery": {
+      "title": "Delivery Terms",
+      "processingTime": {
+        "title": "Order Processing Time",
+        "content": "Your software services will be activated and access information will be sent to you within 1-3 business days after payment confirmation. This period may be extended during special projects and campaign periods."
+      },
+      "deliveryTime": {
+        "title": "Service Activation Time",
+        "content": "Delivery times for software services vary according to the type of service:",
+        "items": [
+          "Standard web development and design services: Delivered within the specified time from project start",
+          "API integration and backend services: Usually activated within 1-2 weeks",
+          "Custom software projects: Delivery time is determined according to project scope and communicated to the customer"
+        ]
+      },
+      "deliveryFees": {
+        "title": "Service Fees",
+        "content": "Pricing for all our software services is transparent:",
+        "items": [
+          "Service prices are clearly stated at the time of order",
+          "Additional features or changes may incur extra charges",
+          "All prices are shown including VAT"
+        ]
+      },
+      "tracking": {
+        "title": "Service Tracking",
+        "content": "When your order is confirmed and your service is activated, access information and project status will be sent to you via email. You can regularly track the progress of your project."
+      }
+    },
+    "return": {
+      "title": "Return and Exchange Terms",
+      "returnConditions": {
+        "title": "Return Conditions",
+        "content": "Return conditions for software services are as follows:",
+        "items": [
+          "Return requests made before service activation are accepted with full refund",
+          "Return requests made after service activation and before project start are evaluated taking into account the work done",
+          "After the project starts, partial refunds can be made according to the completed work ratio",
+          "In custom-developed software projects, returns are not accepted after the project starts"
+        ]
+      },
+      "returnProcess": {
+        "title": "Return Process",
+        "content": "You can submit your return request by following these steps:",
+        "items": [
+          "You can send your return request to help@heroicsoft.com along with your order number and reason for return",
+          "Your return request will be evaluated within 2 business days at the latest and you will be contacted",
+          "Refund process is initiated for approved return requests"
+        ]
+      },
+      "refundProcess": {
+        "title": "Refund Process",
+        "content": "Refunds are processed as follows:",
+        "items": [
+          "Refunds for approved returns are processed within 7-10 business days depending on your payment method",
+          "Payments made by bank card are refunded to the same card account",
+          "Payments made by wire transfer/EFT are refunded to the account information you specified"
+        ]
+      },
+      "exchangeConditions": {
+        "title": "Service Modification Conditions",
+        "content": "You can contact us at help@heroicsoft.com for service modification or update requests. Changes to project scope may require additional charges."
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "Please don't hesitate to contact us for your questions or requests:",
+      "email": "help@heroicsoft.com"
     }
   },
   "about": {

@@ -45,6 +45,8 @@
     "copyright": "© 2025 Heroicsoft. Todos los derechos reservados.",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
+    "distanceSales": "Contrato de Venta a Distancia",
+    "deliveryReturn": "Términos de Entrega y Devolución",
     "links": {
       "services": "Servicios",
       "about": "Acerca de",
@@ -58,50 +60,58 @@
     "badge": "Documento Legal",
     "title": "Política de Privacidad",
     "lastUpdated": "Última Actualización",
-    "intro": "En Heroicsoft, nos comprometemos a proteger su privacidad y garantizar la seguridad de su información personal. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos sus datos cuando utiliza nuestros servicios.",
+    "intro": "En Heroicsoft, otorgamos gran importancia a su privacidad. Esta política de privacidad explica cómo recopilamos, utilizamos y protegemos la información de las personas que visitan nuestro sitio web y utilizan nuestros servicios.",
     "dataCollection": {
-      "title": "Información que Recopilamos",
-      "content": "Recopilamos información que usted nos proporciona directamente, incluso cuando crea una cuenta, se pone en contacto con nosotros o utiliza nuestros servicios. Esto puede incluir:",
+      "title": "Información Recopilada",
+      "content": "Al realizar un pedido o crear una cuenta, podemos recopilar la siguiente información para poder comunicarnos con usted y brindar servicios:",
       "items": [
-        "Información de identificación personal (nombre, dirección de correo electrónico, número de teléfono)",
-        "Información profesional (nombre de la empresa, cargo)",
-        "Datos técnicos (dirección IP, tipo de navegador, información del dispositivo)",
-        "Datos de uso (páginas visitadas, tiempo en el sitio, interacción con funciones)"
+        "Nombre, apellido",
+        "Dirección de correo electrónico",
+        "Número de teléfono",
+        "Dirección de facturación y entrega",
+        "Cuando visita nuestro sitio web, se puede recopilar información sobre su dispositivo, dirección IP, tipo de navegador y hábitos de uso del sitio. Esta información se utiliza para mejorar nuestro sitio y mejorar la experiencia del usuario."
       ]
     },
     "dataUsage": {
-      "title": "Cómo Usamos Su Información",
-      "content": "Utilizamos la información recopilada para diversos fines para proporcionar y mejorar nuestros servicios:",
+      "title": "Uso de la Información",
+      "content": "La información recopilada puede utilizarse para los siguientes fines:",
       "items": [
-        "Para proporcionar, mantener y mejorar nuestros servicios",
-        "Para comunicarnos con usted sobre actualizaciones, ofertas y soporte",
-        "Para personalizar su experiencia y entregar contenido relevante",
-        "Para analizar patrones de uso y optimizar nuestra plataforma",
-        "Para detectar, prevenir y abordar problemas técnicos o actividades fraudulentas"
+        "Procesamiento y entrega de pedidos",
+        "Informarle sobre campañas y ofertas especiales",
+        "Mejorar el rendimiento del sitio web y garantizar la satisfacción del cliente",
+        "Cumplir con las obligaciones legales"
       ]
     },
-    "dataSecurity": {
-      "title": "Seguridad de Datos",
-      "content": "Implementamos medidas de seguridad estándar de la industria para proteger su información personal contra acceso no autorizado, divulgación, alteración o destrucción. Nuestras prácticas de seguridad incluyen cifrado, servidores seguros, auditorías de seguridad regulares y controles de acceso estrictos. Sin embargo, ningún método de transmisión por internet es 100% seguro, y no podemos garantizar una seguridad absoluta."
+    "dataSharing": {
+      "title": "Compartir Información",
+      "content": "Heroicsoft no vende ni alquila su información personal a terceros de ninguna manera. Sin embargo, podemos compartir su información en los siguientes casos:",
+      "items": [
+        "Con empresas de envío para entregar sus pedidos",
+        "Con autoridades oficiales autorizadas de acuerdo con las regulaciones legales",
+        "Con terceros confiables que brindan servicios analíticos para nuestro sitio web"
+      ]
     },
     "cookies": {
-      "title": "Cookies y Tecnologías de Seguimiento",
-      "content": "Utilizamos cookies y tecnologías de seguimiento similares para mejorar su experiencia de navegación, analizar el tráfico del sitio y comprender las preferencias del usuario. Puede controlar la configuración de cookies a través de las preferencias de su navegador. Deshabilitar las cookies puede afectar algunas funcionalidades de nuestros servicios."
+      "title": "Cookies",
+      "content": "Nuestro sitio web utiliza cookies para mejorar la experiencia del usuario y brindar un mejor servicio. Las cookies son pequeños archivos de texto guardados en su dispositivo. Aceptar o rechazar las cookies es completamente su elección. Sin embargo, deshabilitar las cookies puede hacer que algunas funciones del sitio web no funcionen."
+    },
+    "dataSecurity": {
+      "title": "Seguridad",
+      "content": "Tomamos todas las medidas técnicas y administrativas necesarias para garantizar la seguridad de su información personal. Sin embargo, nos gustaría recordarle que no podemos garantizar que la transmisión de datos a través de internet sea completamente segura."
     },
     "rights": {
-      "title": "Sus Derechos y Opciones",
-      "content": "Tiene ciertos derechos con respecto a su información personal:",
+      "title": "Sus Derechos",
+      "content": "Bajo la Ley de Protección de Datos Personales No. 6698 (KVKK), usted tiene los siguientes derechos:",
       "items": [
-        "Acceso: Solicitar acceso a los datos personales que tenemos sobre usted",
-        "Corrección: Solicitar la corrección de datos inexactos o incompletos",
-        "Eliminación: Solicitar la eliminación de sus datos personales, sujeto a obligaciones legales",
-        "Optar por no participar: Cancelar la suscripción a comunicaciones de marketing en cualquier momento",
-        "Portabilidad de Datos: Solicitar una copia de sus datos en un formato estructurado"
+        "Saber si se están procesando sus datos personales",
+        "Solicitar información sobre los datos procesados",
+        "Solicitar la corrección o eliminación de sus datos",
+        "Oponerse al procesamiento de sus datos"
       ]
     },
     "contact": {
-      "title": "Contáctenos",
-      "content": "Si tiene alguna pregunta, inquietud o solicitud con respecto a esta Política de Privacidad o nuestras prácticas de datos, no dude en contactarnos:",
+      "title": "Contacto",
+      "content": "Puede contactarnos para preguntas o inquietudes sobre nuestra política de privacidad:",
       "email": "help@heroicsoft.com"
     }
   },
@@ -161,6 +171,165 @@
     "notice": {
       "title": "Cambios a los Términos",
       "content": "Nos reservamos el derecho de actualizar estos Términos de Servicio en cualquier momento. Le notificaremos cualquier cambio material publicando los nuevos términos en esta página y actualizando la fecha de 'Última Actualización'. Su uso continuo de nuestros servicios después de tales modificaciones constituye su aceptación de los términos actualizados."
+    }
+  },
+  "distanceSales": {
+    "badge": "Documento Legal",
+    "title": "Contrato de Venta a Distancia",
+    "lastUpdated": "Última Actualización",
+    "intro": "Este contrato regula los derechos y obligaciones de las partes con respecto a la venta y entrega del producto/servicio ordenado por el Comprador electrónicamente desde el sitio web del Vendedor, de acuerdo con las disposiciones de la Ley No. 6502 sobre la Protección del Consumidor y el Reglamento de Contratos a Distancia.",
+    "parties": {
+      "title": "ARTÍCULO 1 – PARTES",
+      "content": "Las partes de este contrato se especifican a continuación:",
+      "subsections": [
+        {
+          "title": "Vendedor:",
+          "content": "",
+          "items": [
+            "Nombre de la Empresa: Heroicsoft",
+            "Dirección: Dağçeşme mah. Dumlupınar cad. No: 4/2 Tavşanlı / Kütahya",
+            "Teléfono: +90 546 250 6037",
+            "Correo electrónico: help@heroicsoft.com"
+          ]
+        },
+        {
+          "title": "Comprador:",
+          "content": "La persona que realiza el pedido (\"Comprador\") y la información declarada durante el pedido se toman como base."
+        }
+      ]
+    },
+    "subject": {
+      "title": "ARTÍCULO 2 – OBJETO DEL CONTRATO",
+      "content": "Este contrato regula los derechos y obligaciones de las partes con respecto a la venta y entrega del producto/servicio ordenado por el Comprador electrónicamente desde el sitio web del Vendedor, de acuerdo con las disposiciones de la Ley No. 6502 sobre la Protección del Consumidor y el Reglamento de Contratos a Distancia."
+    },
+    "productInfo": {
+      "title": "ARTÍCULO 3 – INFORMACIÓN DEL PRODUCTO/SERVICIO",
+      "content": "El tipo y clase del producto/servicio sujeto al pedido, cantidad, marca/modelo, color, precio de venta e información de pago son los especificados en la información presentada al Comprador en el momento en que se completa el pedido y en la factura."
+    },
+    "general": {
+      "title": "ARTÍCULO 4 – DISPOSICIONES GENERALES",
+      "content": "Se aplican las siguientes disposiciones generales:",
+      "items": [
+        "El Comprador acepta que ha leído y sido informado sobre toda la información preliminar con respecto a las características básicas del producto/servicio sujeto al contrato, precio de venta, método de pago y entrega en el sitio web, y ha dado la confirmación necesaria en el entorno electrónico.",
+        "El producto/servicio sujeto al contrato se entrega al Comprador o a la persona/institución en la dirección indicada por el Comprador dentro del período especificado en el sitio web, dependiendo de la distancia del lugar de residencia del Comprador, siempre que no se exceda el período legal de 30 días para cada producto/servicio.",
+        "Si el producto sujeto al contrato se entregará a una persona/institución distinta del Comprador, el Vendedor no es responsable de que la persona/institución a quien se entregará no acepte la entrega.",
+        "El Vendedor está obligado a entregar el producto/servicio sujeto al contrato completamente, de acuerdo con las calificaciones especificadas en el pedido y con documentos de garantía, si los hay.",
+        "El Vendedor no es responsable de los retrasos en la entrega del producto si surgen de la empresa de envío o fuerza mayor.",
+        "El Comprador puede ejercer el derecho de retractación antes de la entrega del producto sujeto al contrato."
+      ]
+    },
+    "rightOfWithdrawal": {
+      "title": "ARTÍCULO 5 – DERECHO DE RETRACTACIÓN",
+      "content": "El Comprador puede ejercer el derecho de retractación bajo las siguientes condiciones:",
+      "subsections": [
+        {
+          "title": "5.1. Período de Retractación",
+          "content": "El Comprador puede ejercer el derecho de retractación dentro de los 14 días posteriores a la entrega del producto a él/ella o a la persona/institución en la dirección indicada por él/ella, sin dar ninguna razón y sin pagar ninguna penalización."
+        },
+        {
+          "title": "5.2. Notificación de Retractación",
+          "content": "Para ejercer el derecho de retractación, es necesario notificar al Vendedor por escrito a help@heroicsoft.com dentro de este período."
+        },
+        {
+          "title": "5.3. En Caso de Ejercicio del Derecho de Retractación:",
+          "content": "",
+          "items": [
+            "El producto debe ser devuelto al Vendedor sin usar y en su embalaje original.",
+            "Los costos de envío de devolución son asumidos por el Comprador a menos que el producto esté defectuoso.",
+            "Después de recibir la notificación de que se ha ejercido el derecho de retractación, el Vendedor recibe el producto de vuelta y reembolsa el precio del producto al Comprador dentro de los 14 días."
+          ]
+        },
+        {
+          "title": "5.4. Productos Fuera del Alcance del Derecho de Retractación:",
+          "content": "",
+          "items": [
+            "Productos producidos específicamente para la persona",
+            "Productos con riesgo de deterioro rápido o posibilidad de fecha de vencimiento"
+          ]
+        }
+      ]
+    },
+    "disputes": {
+      "title": "ARTÍCULO 6 – RESOLUCIÓN DE DISPUTAS",
+      "content": "Los Comités de Arbitraje del Consumidor y los Tribunales del Consumidor están autorizados para resolver las disputas que surjan de este contrato."
+    },
+    "effective": {
+      "title": "ARTÍCULO 7 – EFECTIVIDAD",
+      "content": "Este contrato entra en vigor en la fecha en que es aprobado por el Comprador en el entorno electrónico."
+    }
+  },
+  "deliveryReturn": {
+    "badge": "Documento Legal",
+    "title": "Términos de Entrega y Devolución",
+    "lastUpdated": "Última Actualización",
+    "delivery": {
+      "title": "Términos de Entrega",
+      "processingTime": {
+        "title": "Tiempo de Procesamiento del Pedido",
+        "content": "Sus servicios de software se activarán y la información de acceso se le enviará dentro de 1-3 días hábiles después de la confirmación del pago. Este período puede extenderse durante proyectos especiales y períodos de campaña."
+      },
+      "deliveryTime": {
+        "title": "Tiempo de Activación del Servicio",
+        "content": "Los tiempos de entrega de los servicios de software varían según el tipo de servicio:",
+        "items": [
+          "Servicios estándar de desarrollo web y diseño: Se entregan dentro del tiempo especificado desde el inicio del proyecto",
+          "Integración de API y servicios backend: Generalmente se activan dentro de 1-2 semanas",
+          "Proyectos de software personalizados: El tiempo de entrega se determina según el alcance del proyecto y se comunica al cliente"
+        ]
+      },
+      "deliveryFees": {
+        "title": "Tarifas del Servicio",
+        "content": "El precio de todos nuestros servicios de software es transparente:",
+        "items": [
+          "Los precios del servicio se indican claramente en el momento del pedido",
+          "Las características adicionales o cambios pueden incurrir en cargos adicionales",
+          "Todos los precios se muestran incluyendo IVA"
+        ]
+      },
+      "tracking": {
+        "title": "Seguimiento del Servicio",
+        "content": "Cuando su pedido sea confirmado y su servicio esté activado, la información de acceso y el estado del proyecto se le enviarán por correo electrónico. Puede realizar un seguimiento regular del progreso de su proyecto."
+      }
+    },
+    "return": {
+      "title": "Términos de Devolución y Cambio",
+      "returnConditions": {
+        "title": "Condiciones de Devolución",
+        "content": "Las condiciones de devolución para servicios de software son las siguientes:",
+        "items": [
+          "Las solicitudes de devolución realizadas antes de la activación del servicio se aceptan con reembolso completo",
+          "Las solicitudes de devolución realizadas después de la activación del servicio y antes del inicio del proyecto se evalúan teniendo en cuenta el trabajo realizado",
+          "Después de que comience el proyecto, se pueden realizar reembolsos parciales según la proporción de trabajo completado",
+          "En proyectos de software desarrollados personalmente, no se aceptan devoluciones después de que comience el proyecto"
+        ]
+      },
+      "returnProcess": {
+        "title": "Proceso de Devolución",
+        "content": "Puede enviar su solicitud de devolución siguiendo estos pasos:",
+        "items": [
+          "Puede enviar su solicitud de devolución a help@heroicsoft.com junto con su número de pedido y razón de devolución",
+          "Su solicitud de devolución será evaluada dentro de 2 días hábiles como máximo y se le contactará",
+          "Se inicia el proceso de reembolso para las solicitudes de devolución aprobadas"
+        ]
+      },
+      "refundProcess": {
+        "title": "Proceso de Reembolso",
+        "content": "Los reembolsos se procesan de la siguiente manera:",
+        "items": [
+          "Los reembolsos para devoluciones aprobadas se procesan dentro de 7-10 días hábiles dependiendo de su método de pago",
+          "Los pagos realizados con tarjeta bancaria se reembolsan a la misma cuenta de tarjeta",
+          "Los pagos realizados por transferencia bancaria/EFT se reembolsan a la información de cuenta que especificó"
+        ]
+      },
+      "exchangeConditions": {
+        "title": "Condiciones de Modificación del Servicio",
+        "content": "Puede contactarnos en help@heroicsoft.com para solicitudes de modificación o actualización del servicio. Los cambios en el alcance del proyecto pueden requerir cargos adicionales."
+      }
+    },
+    "contact": {
+      "title": "Contacto",
+      "content": "Por favor, no dude en contactarnos para sus preguntas o solicitudes:",
+      "email": "help@heroicsoft.com"
     }
   },
   "about": {

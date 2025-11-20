@@ -2,18 +2,18 @@ import { motion } from "framer-motion";
 import { useTranslations } from '@/i18n';
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { Shield, Eye, Lock, Database, Cookie, FileText, Share2, Mail } from "lucide-react";
+import { FileText, Users, Package, ShoppingCart, RotateCcw, Scale, CheckCircle } from "lucide-react";
 
-export default function PrivacyPage() {
-  const t = useTranslations('privacy');
+export default function DistanceSalesPage() {
+  const t = useTranslations('distanceSales');
   
   const sections = [
-    { icon: Eye, key: 'dataCollection' },
-    { icon: Database, key: 'dataUsage' },
-    { icon: Share2, key: 'dataSharing' },
-    { icon: Cookie, key: 'cookies' },
-    { icon: Lock, key: 'dataSecurity' },
-    { icon: FileText, key: 'rights' },
+    { icon: Users, key: 'parties' },
+    { icon: Package, key: 'subject' },
+    { icon: ShoppingCart, key: 'productInfo' },
+    { icon: FileText, key: 'general' },
+    { icon: RotateCcw, key: 'rightOfWithdrawal' },
+    { icon: Scale, key: 'disputes' },
   ];
 
   return (
@@ -30,7 +30,7 @@ export default function PrivacyPage() {
             className="mb-8 sm:mb-12 md:mb-16"
           >
             <div className="inline-flex items-center gap-2 sm:gap-3 px-3 sm:px-4 py-1.5 sm:py-2 rounded-full bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 mb-4 sm:mb-6">
-              <Shield className="w-4 h-4 sm:w-5 sm:h-5 text-slate-600 dark:text-slate-400" />
+              <FileText className="w-4 h-4 sm:w-5 sm:h-5 text-slate-600 dark:text-slate-400" />
               <span className="text-xs sm:text-sm font-medium text-slate-600 dark:text-slate-400">
                 {t('badge')}
               </span>
@@ -65,7 +65,7 @@ export default function PrivacyPage() {
                     <div className="w-12 h-12 rounded-xl bg-slate-100 dark:bg-slate-900 flex items-center justify-center flex-shrink-0">
                       <Icon className="w-6 h-6 text-slate-900 dark:text-white" />
                     </div>
-                    <div>
+                    <div className="flex-1">
                       <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-4">
                         {t(`${section.key}.title`)}
                       </h2>
@@ -85,6 +85,32 @@ export default function PrivacyPage() {
                             ))}
                           </ul>
                         )}
+
+                        {/* Check if there are subsections */}
+                        {t.has(`${section.key}.subsections`) && (
+                          <div className="mt-6 space-y-4">
+                            {(t.raw(`${section.key}.subsections`) as any[] || []).map((subsection: any, idx: number) => (
+                              <div key={idx} className="mt-4">
+                                <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-2">
+                                  {subsection.title}
+                                </h3>
+                                <p className="text-slate-600 dark:text-slate-400 mb-2">
+                                  {subsection.content}
+                                </p>
+                                {subsection.items && (
+                                  <ul className="space-y-2 mt-2 ml-4">
+                                    {subsection.items.map((item: string, itemIdx: number) => (
+                                      <li key={itemIdx} className="text-slate-600 dark:text-slate-400 flex items-start gap-2">
+                                        <span className="text-slate-400 dark:text-slate-600 mt-1">•</span>
+                                        <span>{item}</span>
+                                      </li>
+                                    ))}
+                                  </ul>
+                                )}
+                              </div>
+                            ))}
+                          </div>
+                        )}
                       </div>
                     </div>
                   </div>
@@ -93,26 +119,24 @@ export default function PrivacyPage() {
             })}
           </div>
 
-          {/* Contact Section */}
+          {/* Effective Date */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.6 }}
             className="mt-16 p-8 bg-slate-50 dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800"
           >
-            <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-4">
-              {t('contact.title')}
-            </h3>
-            <p className="text-slate-600 dark:text-slate-400 mb-6">
-              {t('contact.content')}
-            </p>
-            <a 
-              href="mailto:help@heroicsoft.com"
-              className="inline-flex items-center gap-2 px-6 py-3 bg-slate-900 dark:bg-white text-white dark:text-slate-950 rounded-full font-medium hover:bg-slate-800 dark:hover:bg-slate-200 transition-colors"
-            >
-              <Mail className="w-4 h-4" />
-              {t('contact.email')}
-            </a>
+            <div className="flex items-start gap-4">
+              <CheckCircle className="w-6 h-6 text-slate-900 dark:text-white flex-shrink-0 mt-1" />
+              <div>
+                <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">
+                  {t('effective.title')}
+                </h3>
+                <p className="text-slate-600 dark:text-slate-400">
+                  {t('effective.content')}
+                </p>
+              </div>
+            </div>
           </motion.div>
         </div>
       </div>

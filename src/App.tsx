@@ -8,6 +8,8 @@ import ContactPage from '@/pages/ContactPage';
 import ServicesPage from '@/pages/ServicesPage';
 import PrivacyPage from '@/pages/PrivacyPage';
 import TermsPage from '@/pages/TermsPage';
+import DistanceSalesPage from '@/pages/DistanceSalesPage';
+import DeliveryReturnPage from '@/pages/DeliveryReturnPage';
 
 function LocaleRoute() {
   const { locale } = useParams<{ locale: string }>();
@@ -25,6 +27,8 @@ function LocaleRoute() {
         <Route path="services" element={<ServicesPage />} />
         <Route path="privacy" element={<PrivacyPage />} />
         <Route path="terms" element={<TermsPage />} />
+        <Route path="distance-sales" element={<DistanceSalesPage />} />
+        <Route path="delivery-return" element={<DeliveryReturnPage />} />
         <Route path="*" element={<Navigate to={`/${locale}`} replace />} />
       </Routes>
     </I18nProvider>
