@@ -34,6 +34,15 @@ export default function Footer() {
             <Link href="/contact" onClick={scrollToTop} className="group inline-flex items-center gap-2 text-base sm:text-lg md:text-xl font-medium hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
               {t('startProject')} <ArrowUpRight className="w-5 h-5 sm:w-6 sm:h-6 group-hover:-translate-y-1 group-hover:translate-x-1 transition-transform" />
             </Link>
+            <div className="mt-6 sm:mt-8">
+              <div className="bg-white dark:bg-white rounded-lg px-4 py-2 inline-block shadow-sm">
+                <img 
+                  src="/logo_band_colored@3x.png" 
+                  alt="Accepted Payment Methods" 
+                  className="h-5 sm:h-6 w-auto"
+                />
+              </div>
+            </div>
           </div>
 
           <div className="grid grid-cols-2 gap-6 sm:gap-8">
