@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useTranslations } from '@/i18n';
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { Mail, MapPin, Send, Github, Twitter, Linkedin, Clock, X } from "lucide-react";
+import { Mail, Send, Clock, X } from "lucide-react";
 import { useState } from "react";
 
 export default function ContactPage() {
@@ -22,11 +22,11 @@ export default function ContactPage() {
     { icon: Clock, key: 'hours', value: '9:00 AM - 6:00 PM PST' },
   ];
 
-  const socialLinks = [
-    { icon: Github, key: 'github', href: 'https://github.com/herohasan0' },
-    { icon: Twitter, key: 'twitter', href: 'https://x.com/hasannka_' },
-    { icon: Linkedin, key: 'linkedin', href: 'https://www.linkedin.com/in/hasan-kahraman0/' },
-  ];
+  // const socialLinks = [
+  //   { icon: Github, key: 'github', href: 'https://github.com/herohasan0' },
+  //   { icon: Twitter, key: 'twitter', href: 'https://x.com/hasannka_' },
+  //   { icon: Linkedin, key: 'linkedin', href: 'https://www.linkedin.com/in/hasan-kahraman0/' },
+  // ];
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();

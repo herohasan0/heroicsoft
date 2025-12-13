@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowUpRight, Github, Twitter, Linkedin, Mail } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import { useTranslations } from '@/i18n';
 import { Link } from "@/components/Link";
 
@@ -10,12 +10,12 @@ export default function Footer() {
     window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
   };
   
-  const socialIcons = [
-    { key: 'twitter', icon: Twitter, href: 'https://x.com/hasannka_' },
-    { key: 'github', icon: Github, href: 'https://github.com/herohasan0' },
-    { key: 'linkedin', icon: Linkedin, href: 'https://www.linkedin.com/in/hasan-kahraman0/' },
-    { key: 'email', icon: Mail, href: '/contact' },
-  ];
+  // const socialIcons = [
+  //   { key: 'twitter', icon: Twitter, href: 'https://x.com/hasannka_' },
+  //   { key: 'github', icon: Github, href: 'https://github.com/herohasan0' },
+  //   { key: 'linkedin', icon: Linkedin, href: 'https://www.linkedin.com/in/hasan-kahraman0/' },
+  //   { key: 'email', icon: Mail, href: '/contact' },
+  // ];
 
   return (
     <footer className="bg-slate-50 dark:bg-slate-900 text-slate-900 dark:text-white py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-12 lg:px-24 overflow-hidden">
