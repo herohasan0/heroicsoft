@@ -18,7 +18,7 @@ export default function ContactPage() {
 
   const contactInfo = [
     { icon: Mail, key: 'email', value: 'help@heroicsoft.com' },
-    { icon: MapPin, key: 'location', value: 'Turkey' },
+    // { icon: MapPin, key: 'location', value: 'Turkey' },
     { icon: Clock, key: 'hours', value: '9:00 AM - 6:00 PM PST' },
   ];
 
@@ -140,7 +140,7 @@ export default function ContactPage() {
               </div>
 
               {/* Social Links */}
-              <div>
+              {/* <div>
                 <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-4">
                   {t('social.title')}
                 </h3>
@@ -160,7 +160,7 @@ export default function ContactPage() {
                     );
                   })}
                 </div>
-              </div>
+              </div> */}
 
               {/* Additional Info */}
               <div className="p-6 bg-slate-50 dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800">
