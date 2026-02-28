@@ -59,59 +59,61 @@
   "privacy": {
     "badge": "Yasal Belge",
     "title": "Gizlilik Politikası",
+    "subtitle": "Cleanup Photos Cleaner",
     "lastUpdated": "Son Güncelleme",
-    "intro": "Heroicsoft olarak, gizliliğinize büyük önem veriyoruz. Bu gizlilik sözleşmesi, web sitemizi ziyaret eden ve hizmetlerimizi kullanan kişilerin bilgilerini nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklamaktadır.",
+    "intro": "Bu gizlilik politikası, Heroicsoft tarafından geliştirilen Cleanup Photos Cleaner uygulaması (\"Uygulama\") için geçerlidir. Gizliliğinize saygı duyuyor ve veri uygulamalarımız konusunda şeffaf olmaya kararlıyız. Kısacası: kişisel verilerinizi toplamıyor, saklamıyor veya paylaşmıyoruz.",
     "dataCollection": {
-      "title": "Toplanan Bilgiler",
-      "content": "Sipariş verirken veya üyelik oluştururken sizinle iletişim kurabilmek ve hizmet sunabilmek için aşağıdaki bilgileri toplayabiliriz:",
+      "title": "Toplamadığımız Bilgiler",
+      "content": "Cleanup Photos Cleaner, kullanıcılarından hiçbir kişisel bilgi toplamaz. Özellikle:",
       "items": [
-        "İsim, soyisim",
-        "E-posta adresi",
-        "Telefon numarası",
-        "Fatura ve teslimat adresi",
-        "Web sitemizi ziyaret ettiğinizde cihazınıza, IP adresinize, tarayıcı türünüze ve site kullanım alışkanlıklarınıza ilişkin bilgiler toplanabilir. Bu bilgiler, sitemizin iyileştirilmesi ve kullanıcı deneyiminin geliştirilmesi için kullanılmaktadır."
+        "Adınızı, e-posta adresinizi veya herhangi bir iletişim bilginizi toplamıyoruz",
+        "Cihaz tanımlayıcılarını veya IP adreslerini toplamıyoruz",
+        "Kullanım istatistikleri veya davranışsal veriler toplamıyoruz",
+        "Hesap oluşturma veya giriş yapma gerektirmiyoruz",
+        "Sizi kişisel olarak tanımlayabilecek hiçbir veri toplamıyoruz"
       ]
     },
     "dataUsage": {
-      "title": "Bilgilerin Kullanımı",
-      "content": "Toplanan bilgiler şu amaçlarla kullanılabilir:",
+      "title": "Fotoğraf Kitaplığı Erişimi",
+      "content": "Uygulama, temel işlevselliğini sağlamak için cihazınızın fotoğraf kitaplığına erişim gerektirir — kaydırma tabanlı bir arayüz aracılığıyla fotoğraflarınızı düzenlemenize ve temizlemenize yardımcı olur. Bu erişimle ilgili önemli detaylar:",
       "items": [
-        "Siparişlerin işlenmesi ve teslimatının yapılması",
-        "Size özel kampanyalar ve fırsatlar hakkında bilgilendirme yapılması",
-        "Web sitesinin performansını artırmak ve müşteri memnuniyetini sağlamak",
-        "Yasal yükümlülüklerin yerine getirilmesi"
+        "Fotoğraflarınıza yalnızca cihazınızda yerel olarak erişilir ve görüntülenir",
+        "Fotoğraflar hiçbir zaman bir sunucuya veya bulut hizmetine yüklenmez",
+        "Tüm fotoğraf yönetim işlemleri (görüntüleme, düzenleme, silme) tamamen cihazınızda gerçekleşir",
+        "Uygulama fotoğraflarınızı hiçbir şekilde değiştirmez — yalnızca hangilerini saklayıp hangilerini sileceğinize karar vermenize yardımcı olur"
       ]
     },
     "dataSharing": {
-      "title": "Bilgilerin Paylaşımı",
-      "content": "Heroicsoft, kişisel bilgilerinizi hiçbir şekilde üçüncü taraflara satmaz veya kiralamaz. Ancak aşağıdaki durumlarda bilgilerinizi paylaşabiliriz:",
+      "title": "Üçüncü Taraf Paylaşımı",
+      "content": "Hiçbir veri toplamadığımız için paylaşacak bir şey yoktur. Özellikle:",
       "items": [
-        "Siparişlerinizi teslim etmek için kargo firmalarıyla",
-        "Yasal düzenlemelere uygun olarak yetkili resmi mercilerle",
-        "Web sitemizin analitik hizmetlerini sağlayan güvenilir üçüncü taraflarla"
+        "Üçüncü taraflarla hiçbir veri paylaşmıyoruz",
+        "Üçüncü taraf analitik veya izleme hizmetleri kullanmıyoruz",
+        "Herhangi bir reklam ağıyla entegrasyon yapmıyoruz",
+        "Herhangi bir kullanıcı bilgisini satmıyor, kiralamıyor veya takas etmiyoruz"
       ]
     },
     "cookies": {
-      "title": "Çerezler (Cookies)",
-      "content": "Web sitemiz, kullanıcı deneyimini geliştirmek ve daha iyi bir hizmet sunmak için çerezler kullanır. Çerezler, cihazınıza kaydedilen küçük metin dosyalarıdır. Çerezleri kabul etmek veya reddetmek tamamen sizin tercihinize bağlıdır. Ancak çerezlerin devre dışı bırakılması, bazı web sitesi işlevlerinin çalışmamasına neden olabilir."
+      "title": "Analitik ve İzleme",
+      "content": "Cleanup Photos Cleaner herhangi bir analitik, izleme teknolojisi veya çerez kullanmaz. Uygulama tamamen çevrimdışı çalışır ve herhangi bir harici sunucuyla iletişim kurmaz. Uygulamayı kullanımınız tamamen gizlidir."
     },
     "dataSecurity": {
-      "title": "Güvenlik",
-      "content": "Kişisel bilgilerinizin güvenliğini sağlamak için gerekli tüm teknik ve idari önlemleri alıyoruz. Ancak, internet üzerinden veri aktarımının tamamen güvenli olduğuna dair garanti veremeyeceğimizi hatırlatmak isteriz."
+      "title": "Veri Güvenliği",
+      "content": "Cleanup Photos Cleaner herhangi bir veri toplamadığı veya iletmediği için bilgileriniz her zaman güvenli bir şekilde cihazınızda kalır. Uygulama tamamen cihazınızın yerel ortamında çalışır ve fotoğraflarınız Uygulama aracılığıyla asla cihazınızdan ayrılmaz."
     },
     "rights": {
       "title": "Haklarınız",
-      "content": "6698 Sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında aşağıdaki haklara sahipsiniz:",
+      "content": "Verileriniz üzerinde her zaman tam kontrol sizdedir:",
       "items": [
-        "Kişisel verilerinizin işlenip işlenmediğini öğrenme",
-        "İşlenen veriler hakkında bilgi talep etme",
-        "Verilerinizin düzeltilmesini veya silinmesini talep etme",
-        "Verilerinizin işlenmesine itiraz etme"
+        "Cihazınızın Ayarlar bölümünden istediğiniz zaman Uygulamanın fotoğraf kitaplığı erişimini iptal edebilirsiniz",
+        "Uygulamayı istediğiniz zaman silebilirsiniz, bu işlem Uygulamayla ilgili tüm verileri cihazınızdan kaldırır",
+        "Hesap oluşturmadığımız için hesap silme işlemi gerekmez",
+        "Verilerinizi saklamadığımız için veri silme talebi gerekmez"
       ]
     },
     "contact": {
       "title": "İletişim",
-      "content": "Gizlilik politikamızla ilgili sorularınız veya endişeleriniz için bizimle iletişime geçebilirsiniz:",
+      "content": "Bu gizlilik politikasıyla ilgili sorularınız veya endişeleriniz için bizimle iletişime geçebilirsiniz:",
       "email": "help@heroicsoft.com"
     }
   },

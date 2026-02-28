@@ -59,59 +59,61 @@
   "privacy": {
     "badge": "Legal Document",
     "title": "Privacy Policy",
+    "subtitle": "Cleanup Photos Cleaner",
     "lastUpdated": "Last Updated",
-    "intro": "At Heroicsoft, we place great importance on your privacy. This privacy policy explains how we collect, use, and protect the information of individuals who visit our website and use our services.",
+    "intro": "This privacy policy applies to the Cleanup Photos Cleaner app (the \"App\") developed by Heroicsoft. We respect your privacy and are committed to being transparent about our data practices. Simply put: we do not collect, store, or share any of your personal data.",
     "dataCollection": {
-      "title": "Information Collected",
-      "content": "When placing an order or creating an account, we may collect the following information to be able to communicate with you and provide services:",
+      "title": "Information We Do Not Collect",
+      "content": "Cleanup Photos Cleaner does not collect any personal information from its users. Specifically:",
       "items": [
-        "Name, surname",
-        "Email address",
-        "Phone number",
-        "Billing and delivery address",
-        "When you visit our website, information about your device, IP address, browser type, and site usage habits may be collected. This information is used to improve our site and enhance the user experience."
+        "We do not collect your name, email address, or any contact information",
+        "We do not collect device identifiers or IP addresses",
+        "We do not collect usage statistics or behavioral data",
+        "We do not require account creation or login",
+        "We do not collect any data that could identify you personally"
       ]
     },
     "dataUsage": {
-      "title": "Use of Information",
-      "content": "The collected information may be used for the following purposes:",
+      "title": "Photo Library Access",
+      "content": "The App requires access to your device's photo library to provide its core functionality — helping you organize and clean up your photos through a swipe-based interface. Important details about this access:",
       "items": [
-        "Processing and delivery of orders",
-        "Informing you about special campaigns and offers",
-        "Improving website performance and ensuring customer satisfaction",
-        "Fulfilling legal obligations"
+        "Your photos are only accessed and displayed locally on your device",
+        "Photos are never uploaded to any server or cloud service",
+        "All photo management operations (viewing, organizing, deleting) happen entirely on your device",
+        "The App does not modify your photos in any way — it only helps you decide which ones to keep or delete"
       ]
     },
     "dataSharing": {
-      "title": "Sharing of Information",
-      "content": "Heroicsoft does not sell or rent your personal information to third parties in any way. However, we may share your information in the following cases:",
+      "title": "Third-Party Sharing",
+      "content": "Since we do not collect any data, there is nothing to share. Specifically:",
       "items": [
-        "With shipping companies to deliver your orders",
-        "With authorized official authorities in accordance with legal regulations",
-        "With trusted third parties that provide analytical services for our website"
+        "We do not share any data with third parties",
+        "We do not use third-party analytics or tracking services",
+        "We do not integrate with any advertising networks",
+        "We do not sell, rent, or trade any user information"
       ]
     },
     "cookies": {
-      "title": "Cookies",
-      "content": "Our website uses cookies to improve user experience and provide better service. Cookies are small text files saved on your device. Accepting or rejecting cookies is entirely your choice. However, disabling cookies may cause some website functions to not work."
+      "title": "Analytics & Tracking",
+      "content": "Cleanup Photos Cleaner does not use any analytics, tracking technologies, or cookies. The App operates entirely offline and does not communicate with any external servers. Your usage of the App is completely private."
     },
     "dataSecurity": {
-      "title": "Security",
-      "content": "We take all necessary technical and administrative measures to ensure the security of your personal information. However, we would like to remind you that we cannot guarantee that data transmission over the internet is completely secure."
+      "title": "Data Security",
+      "content": "Since Cleanup Photos Cleaner does not collect or transmit any data, your information remains securely on your device at all times. The App operates entirely within your device's local environment, and your photos never leave your device through the App."
     },
     "rights": {
       "title": "Your Rights",
-      "content": "Under the Personal Data Protection Law No. 6698 (KVKK), you have the following rights:",
+      "content": "You are in full control of your data at all times:",
       "items": [
-        "To learn whether your personal data is being processed",
-        "To request information about processed data",
-        "To request correction or deletion of your data",
-        "To object to the processing of your data"
+        "You can revoke the App's access to your photo library at any time through your device's Settings",
+        "You can delete the App at any time, which removes all App-related data from your device",
+        "No account deletion is necessary since we do not create accounts",
+        "No data deletion request is necessary since we do not store any of your data"
       ]
     },
     "contact": {
       "title": "Contact",
-      "content": "You can contact us for questions or concerns regarding our privacy policy:",
+      "content": "If you have any questions or concerns about this privacy policy, please contact us:",
       "email": "help@heroicsoft.com"
     }
   },

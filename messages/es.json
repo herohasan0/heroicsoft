@@ -59,59 +59,61 @@
   "privacy": {
     "badge": "Documento Legal",
     "title": "Política de Privacidad",
+    "subtitle": "Cleanup Photos Cleaner",
     "lastUpdated": "Última Actualización",
-    "intro": "En Heroicsoft, otorgamos gran importancia a su privacidad. Esta política de privacidad explica cómo recopilamos, utilizamos y protegemos la información de las personas que visitan nuestro sitio web y utilizan nuestros servicios.",
+    "intro": "Esta política de privacidad se aplica a la aplicación Cleanup Photos Cleaner (la \"Aplicación\") desarrollada por Heroicsoft. Respetamos su privacidad y estamos comprometidos a ser transparentes sobre nuestras prácticas de datos. En resumen: no recopilamos, almacenamos ni compartimos ninguno de sus datos personales.",
     "dataCollection": {
-      "title": "Información Recopilada",
-      "content": "Al realizar un pedido o crear una cuenta, podemos recopilar la siguiente información para poder comunicarnos con usted y brindar servicios:",
+      "title": "Información Que No Recopilamos",
+      "content": "Cleanup Photos Cleaner no recopila ninguna información personal de sus usuarios. Específicamente:",
       "items": [
-        "Nombre, apellido",
-        "Dirección de correo electrónico",
-        "Número de teléfono",
-        "Dirección de facturación y entrega",
-        "Cuando visita nuestro sitio web, se puede recopilar información sobre su dispositivo, dirección IP, tipo de navegador y hábitos de uso del sitio. Esta información se utiliza para mejorar nuestro sitio y mejorar la experiencia del usuario."
+        "No recopilamos su nombre, dirección de correo electrónico ni ninguna información de contacto",
+        "No recopilamos identificadores de dispositivo ni direcciones IP",
+        "No recopilamos estadísticas de uso ni datos de comportamiento",
+        "No requerimos creación de cuenta ni inicio de sesión",
+        "No recopilamos ningún dato que pueda identificarle personalmente"
       ]
     },
     "dataUsage": {
-      "title": "Uso de la Información",
-      "content": "La información recopilada puede utilizarse para los siguientes fines:",
+      "title": "Acceso a la Biblioteca de Fotos",
+      "content": "La Aplicación requiere acceso a la biblioteca de fotos de su dispositivo para proporcionar su funcionalidad principal — ayudarle a organizar y limpiar sus fotos a través de una interfaz de deslizamiento. Detalles importantes sobre este acceso:",
       "items": [
-        "Procesamiento y entrega de pedidos",
-        "Informarle sobre campañas y ofertas especiales",
-        "Mejorar el rendimiento del sitio web y garantizar la satisfacción del cliente",
-        "Cumplir con las obligaciones legales"
+        "Sus fotos solo se acceden y muestran localmente en su dispositivo",
+        "Las fotos nunca se suben a ningún servidor o servicio en la nube",
+        "Todas las operaciones de gestión de fotos (visualización, organización, eliminación) ocurren completamente en su dispositivo",
+        "La Aplicación no modifica sus fotos de ninguna manera — solo le ayuda a decidir cuáles conservar o eliminar"
       ]
     },
     "dataSharing": {
-      "title": "Compartir Información",
-      "content": "Heroicsoft no vende ni alquila su información personal a terceros de ninguna manera. Sin embargo, podemos compartir su información en los siguientes casos:",
+      "title": "Compartir con Terceros",
+      "content": "Como no recopilamos ningún dato, no hay nada que compartir. Específicamente:",
       "items": [
-        "Con empresas de envío para entregar sus pedidos",
-        "Con autoridades oficiales autorizadas de acuerdo con las regulaciones legales",
-        "Con terceros confiables que brindan servicios analíticos para nuestro sitio web"
+        "No compartimos ningún dato con terceros",
+        "No utilizamos servicios de análisis o seguimiento de terceros",
+        "No nos integramos con ninguna red publicitaria",
+        "No vendemos, alquilamos ni intercambiamos ninguna información del usuario"
       ]
     },
     "cookies": {
-      "title": "Cookies",
-      "content": "Nuestro sitio web utiliza cookies para mejorar la experiencia del usuario y brindar un mejor servicio. Las cookies son pequeños archivos de texto guardados en su dispositivo. Aceptar o rechazar las cookies es completamente su elección. Sin embargo, deshabilitar las cookies puede hacer que algunas funciones del sitio web no funcionen."
+      "title": "Análisis y Seguimiento",
+      "content": "Cleanup Photos Cleaner no utiliza ningún análisis, tecnología de seguimiento ni cookies. La Aplicación funciona completamente sin conexión y no se comunica con ningún servidor externo. Su uso de la Aplicación es completamente privado."
     },
     "dataSecurity": {
-      "title": "Seguridad",
-      "content": "Tomamos todas las medidas técnicas y administrativas necesarias para garantizar la seguridad de su información personal. Sin embargo, nos gustaría recordarle que no podemos garantizar que la transmisión de datos a través de internet sea completamente segura."
+      "title": "Seguridad de Datos",
+      "content": "Dado que Cleanup Photos Cleaner no recopila ni transmite ningún dato, su información permanece segura en su dispositivo en todo momento. La Aplicación opera completamente dentro del entorno local de su dispositivo, y sus fotos nunca salen de su dispositivo a través de la Aplicación."
     },
     "rights": {
       "title": "Sus Derechos",
-      "content": "Bajo la Ley de Protección de Datos Personales No. 6698 (KVKK), usted tiene los siguientes derechos:",
+      "content": "Usted tiene control total sobre sus datos en todo momento:",
       "items": [
-        "Saber si se están procesando sus datos personales",
-        "Solicitar información sobre los datos procesados",
-        "Solicitar la corrección o eliminación de sus datos",
-        "Oponerse al procesamiento de sus datos"
+        "Puede revocar el acceso de la Aplicación a su biblioteca de fotos en cualquier momento a través de la Configuración de su dispositivo",
+        "Puede eliminar la Aplicación en cualquier momento, lo que elimina todos los datos relacionados con la Aplicación de su dispositivo",
+        "No es necesario eliminar ninguna cuenta ya que no creamos cuentas",
+        "No es necesario solicitar la eliminación de datos ya que no almacenamos ninguno de sus datos"
       ]
     },
     "contact": {
       "title": "Contacto",
-      "content": "Puede contactarnos para preguntas o inquietudes sobre nuestra política de privacidad:",
+      "content": "Si tiene alguna pregunta o inquietud sobre esta política de privacidad, contáctenos:",
       "email": "help@heroicsoft.com"
     }
   },

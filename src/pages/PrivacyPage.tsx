@@ -2,16 +2,16 @@ import { motion } from "framer-motion";
 import { useTranslations } from '@/i18n';
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { Shield, Eye, Lock, Database, Cookie, FileText, Share2, Mail } from "lucide-react";
+import { Shield, Eye, Lock, WifiOff, FileText, Share2, Mail, ImageIcon } from "lucide-react";
 
 export default function PrivacyPage() {
   const t = useTranslations('privacy');
   
   const sections = [
     { icon: Eye, key: 'dataCollection' },
-    { icon: Database, key: 'dataUsage' },
+    { icon: ImageIcon, key: 'dataUsage' },
     { icon: Share2, key: 'dataSharing' },
-    { icon: Cookie, key: 'cookies' },
+    { icon: WifiOff, key: 'cookies' },
     { icon: Lock, key: 'dataSecurity' },
     { icon: FileText, key: 'rights' },
   ];
@@ -36,12 +36,16 @@ export default function PrivacyPage() {
               </span>
             </div>
             
-            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 dark:text-white mb-4 sm:mb-6">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 dark:text-white mb-2 sm:mb-3">
               {t('title')}
             </h1>
-            
+
+            <p className="text-xl sm:text-2xl font-semibold text-slate-700 dark:text-slate-300 mb-4 sm:mb-6">
+              {t('subtitle')}
+            </p>
+
             <p className="text-lg text-slate-600 dark:text-slate-400 mb-4">
-              {t('lastUpdated')}: <span className="font-medium">November 19, 2025</span>
+              {t('lastUpdated')}: <span className="font-medium">February 28, 2026</span>
             </p>
             
             <p className="text-lg text-slate-600 dark:text-slate-400 leading-relaxed">
