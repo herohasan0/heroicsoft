@@ -550,6 +550,66 @@
       "description": "Hablemos sobre cómo podemos ayudarlo a lograr sus objetivos y hacer realidad su visión.",
       "button": "Ponerse en Contacto"
     }
+  },
+  "justRipePrivacy": {
+    "badge": "Documento Legal",
+    "title": "Política de Privacidad",
+    "subtitle": "Just Ripe",
+    "lastUpdated": "Última Actualización",
+    "intro": "Esta política de privacidad se aplica al juego Just Ripe (la \"Aplicación\") desarrollado por Heroicsoft. Respetamos su privacidad y estamos comprometidos a ser transparentes sobre nuestras prácticas de datos. En resumen: no recopilamos, almacenamos ni compartimos ninguno de sus datos personales.",
+    "dataCollection": {
+      "title": "Información Que No Recopilamos",
+      "content": "Just Ripe no recopila ninguna información personal de sus jugadores. En concreto:",
+      "items": [
+        "No recopilamos su nombre, correo electrónico ni ningún dato de contacto",
+        "No recopilamos identificadores de dispositivo ni direcciones IP",
+        "No recopilamos estadísticas de uso ni datos de comportamiento",
+        "No requerimos crear una cuenta ni iniciar sesión",
+        "No recopilamos ningún dato que pueda identificarle personalmente"
+      ]
+    },
+    "dataUsage": {
+      "title": "Progreso del Juego y Game Center",
+      "content": "Su progreso, monedas y ajustes se guardan solo en su dispositivo. Las clasificaciones son opcionales y las ofrece Apple:",
+      "items": [
+        "Su progreso en el juego nunca sale de su dispositivo",
+        "Si ha iniciado sesión en Game Center de Apple, sus puntuaciones de los modos Diario e Infinito se envían a Apple para aparecer en las clasificaciones",
+        "Game Center es operado por Apple bajo la política de privacidad de Apple",
+        "El juego funciona por completo sin Game Center"
+      ]
+    },
+    "dataSharing": {
+      "title": "Compartir con Terceros",
+      "content": "Como no recopilamos ningún dato, no hay nada que compartir. Específicamente:",
+      "items": [
+        "No compartimos ningún dato con terceros",
+        "No utilizamos servicios de análisis o seguimiento de terceros",
+        "No nos integramos con ninguna red publicitaria",
+        "No vendemos, alquilamos ni intercambiamos ninguna información del usuario"
+      ]
+    },
+    "cookies": {
+      "title": "Análisis y Seguimiento",
+      "content": "Just Ripe no utiliza análisis, tecnologías de seguimiento, publicidad ni cookies. La Aplicación se puede jugar completamente sin conexión."
+    },
+    "dataSecurity": {
+      "title": "Seguridad de Datos",
+      "content": "Dado que Just Ripe no recopila ni transmite datos personales, su información permanece en su dispositivo en todo momento. Las puntuaciones de las clasificaciones son gestionadas únicamente por Game Center de Apple."
+    },
+    "rights": {
+      "title": "Sus Derechos",
+      "content": "Usted tiene el control total de sus datos en todo momento:",
+      "items": [
+        "Puede cerrar sesión en Game Center en cualquier momento desde los Ajustes de su dispositivo",
+        "Puede eliminar la Aplicación en cualquier momento, lo que borra todo el progreso del juego de su dispositivo",
+        "No es necesario eliminar ninguna cuenta, ya que no creamos cuentas",
+        "No es necesario solicitar la eliminación de datos, ya que no almacenamos ninguno"
+      ]
+    },
+    "contact": {
+      "title": "Contacto",
+      "content": "Si tiene alguna pregunta o inquietud sobre esta política de privacidad, contáctenos:",
+      "email": "help@heroicsoft.com"
+    }
   }
 }
-

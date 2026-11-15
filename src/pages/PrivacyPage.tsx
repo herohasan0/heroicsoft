@@ -2,14 +2,15 @@ import { motion } from "framer-motion";
 import { useTranslations } from '@/i18n';
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { Shield, Eye, Lock, WifiOff, FileText, Share2, Mail, ImageIcon } from "lucide-react";
+import { Shield, Eye, Lock, WifiOff, FileText, Share2, Mail, ImageIcon, Trophy } from "lucide-react";
 
-export default function PrivacyPage() {
-  const t = useTranslations('privacy');
+// one page per app: `ns` picks the translation block, `date` its last-updated date
+export default function PrivacyPage({ ns = 'privacy', date = 'February 28, 2026' }: { ns?: string; date?: string }) {
+  const t = useTranslations(ns);
   
   const sections = [
     { icon: Eye, key: 'dataCollection' },
-    { icon: ImageIcon, key: 'dataUsage' },
+    { icon: ns === 'privacy' ? ImageIcon : Trophy, key: 'dataUsage' },
     { icon: Share2, key: 'dataSharing' },
     { icon: WifiOff, key: 'cookies' },
     { icon: Lock, key: 'dataSecurity' },
@@ -45,7 +46,7 @@ export default function PrivacyPage() {
             </p>
 
             <p className="text-lg text-slate-600 dark:text-slate-400 mb-4">
-              {t('lastUpdated')}: <span className="font-medium">February 28, 2026</span>
+              {t('lastUpdated')}: <span className="font-medium">{date}</span>
             </p>
             
             <p className="text-lg text-slate-600 dark:text-slate-400 leading-relaxed">

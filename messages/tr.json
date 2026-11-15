@@ -550,6 +550,66 @@
       "description": "Hedeflerinize ulaşmanıza ve vizyonunuzu hayata geçirmenize nasıl yardımcı olabileceğimizi konuşalım.",
       "button": "İletişime Geçin"
     }
+  },
+  "justRipePrivacy": {
+    "badge": "Yasal Belge",
+    "title": "Gizlilik Politikası",
+    "subtitle": "Just Ripe",
+    "lastUpdated": "Son Güncelleme",
+    "intro": "Bu gizlilik politikası, Heroicsoft tarafından geliştirilen Just Ripe oyunu (\"Uygulama\") için geçerlidir. Gizliliğinize saygı duyuyor ve veri uygulamalarımız konusunda şeffaf olmaya kararlıyız. Kısacası: kişisel verilerinizi toplamıyor, saklamıyor veya paylaşmıyoruz.",
+    "dataCollection": {
+      "title": "Toplamadığımız Bilgiler",
+      "content": "Just Ripe, oyuncularından hiçbir kişisel bilgi toplamaz. Özellikle:",
+      "items": [
+        "Adınızı, e-posta adresinizi veya herhangi bir iletişim bilginizi toplamıyoruz",
+        "Cihaz tanımlayıcılarını veya IP adreslerini toplamıyoruz",
+        "Kullanım istatistikleri veya davranış verileri toplamıyoruz",
+        "Hesap oluşturmanızı veya giriş yapmanızı istemiyoruz",
+        "Sizi kişisel olarak tanımlayabilecek hiçbir veri toplamıyoruz"
+      ]
+    },
+    "dataUsage": {
+      "title": "Oyun İlerlemesi ve Game Center",
+      "content": "İlerlemeniz, altınlarınız ve ayarlarınız yalnızca cihazınızda saklanır. Sıralamalar isteğe bağlıdır ve Apple tarafından sağlanır:",
+      "items": [
+        "Oyun ilerlemeniz cihazınızdan asla çıkmaz",
+        "Apple Game Center'da oturum açtıysanız, Günlük ve Sonsuz mod puanlarınız sıralamalarda görünmesi için Apple'a gönderilir",
+        "Game Center, Apple tarafından Apple'ın kendi gizlilik politikası kapsamında işletilir",
+        "Oyun, Game Center olmadan da eksiksiz çalışır"
+      ]
+    },
+    "dataSharing": {
+      "title": "Üçüncü Taraf Paylaşımı",
+      "content": "Hiçbir veri toplamadığımız için paylaşacak bir şey yoktur. Özellikle:",
+      "items": [
+        "Üçüncü taraflarla hiçbir veri paylaşmıyoruz",
+        "Üçüncü taraf analitik veya izleme hizmetleri kullanmıyoruz",
+        "Herhangi bir reklam ağıyla entegrasyon yapmıyoruz",
+        "Herhangi bir kullanıcı bilgisini satmıyor, kiralamıyor veya takas etmiyoruz"
+      ]
+    },
+    "cookies": {
+      "title": "Analitik ve İzleme",
+      "content": "Just Ripe hiçbir analitik, izleme teknolojisi, reklam veya çerez kullanmaz. Uygulama tamamen çevrimdışı oynanabilir."
+    },
+    "dataSecurity": {
+      "title": "Veri Güvenliği",
+      "content": "Just Ripe kişisel veri toplamadığı ve iletmediği için bilgileriniz her zaman cihazınızda kalır. Sıralama puanları yalnızca Apple Game Center tarafından işlenir."
+    },
+    "rights": {
+      "title": "Haklarınız",
+      "content": "Verileriniz her zaman tamamen sizin kontrolünüzdedir:",
+      "items": [
+        "Cihazınızın Ayarlar bölümünden istediğiniz zaman Game Center oturumunu kapatabilirsiniz",
+        "Uygulamayı istediğiniz zaman silebilirsiniz; bu, tüm oyun ilerlemesini cihazınızdan kaldırır",
+        "Hesap oluşturmadığımız için hesap silmeye gerek yoktur",
+        "Hiçbir verinizi saklamadığımız için veri silme talebine gerek yoktur"
+      ]
+    },
+    "contact": {
+      "title": "İletişim",
+      "content": "Bu gizlilik politikasıyla ilgili sorularınız veya endişeleriniz için bizimle iletişime geçebilirsiniz:",
+      "email": "help@heroicsoft.com"
+    }
   }
 }
-

@@ -26,6 +26,7 @@ function LocaleRoute() {
         <Route path="contact" element={<ContactPage />} />
         <Route path="services" element={<ServicesPage />} />
         <Route path="privacy" element={<PrivacyPage />} />
+        <Route path="just-ripe/privacy" element={<PrivacyPage ns="justRipePrivacy" date="November 15, 2026" />} />
         <Route path="terms" element={<TermsPage />} />
         <Route path="distance-sales" element={<DistanceSalesPage />} />
         <Route path="delivery-return" element={<DeliveryReturnPage />} />
