@@ -59,16 +59,16 @@
   "privacy": {
     "badge": "Documento Legal",
     "title": "Política de Privacidad",
-    "subtitle": "Cleanup Photos Cleaner",
+    "subtitle": "Prunely",
     "lastUpdated": "Última Actualización",
-    "intro": "Esta política de privacidad se aplica a la aplicación Cleanup Photos Cleaner (la \"Aplicación\") desarrollada por Heroicsoft. Respetamos su privacidad y estamos comprometidos a ser transparentes sobre nuestras prácticas de datos. En resumen: no recopilamos, almacenamos ni compartimos ninguno de sus datos personales.",
+    "intro": "Esta política de privacidad se aplica a la aplicación Prunely, antes llamada Cleanup Photos Cleaner, (la \"Aplicación\") desarrollada por Heroicsoft. Respetamos su privacidad y estamos comprometidos a ser transparentes sobre nuestras prácticas de datos. En resumen: no recopilamos, almacenamos ni compartimos ninguno de sus datos personales.",
     "dataCollection": {
       "title": "Información Que No Recopilamos",
-      "content": "Cleanup Photos Cleaner no recopila ninguna información personal de sus usuarios. Específicamente:",
+      "content": "Prunely no recopila ninguna información personal de sus usuarios. Específicamente:",
       "items": [
-        "No recopilamos su nombre, dirección de correo electrónico ni ninguna información de contacto",
+        "No recopilamos su nombre, dirección de correo electrónico ni ninguna información de contacto. Si decide enviarnos comentarios por correo electrónico, vemos su dirección y la usamos únicamente para responderle",
         "No recopilamos identificadores de dispositivo ni direcciones IP",
-        "No recopilamos estadísticas de uso ni datos de comportamiento",
+        "No recopilamos estadísticas de uso ni datos de comportamiento. Su objetivo diario, su racha, sus decisiones de conservar o eliminar y sus ajustes se guardan solo en su dispositivo y nunca se nos envían",
         "No requerimos creación de cuenta ni inicio de sesión",
         "No recopilamos ningún dato que pueda identificarle personalmente"
       ]
@@ -80,7 +80,7 @@
         "Sus fotos solo se acceden y muestran localmente en su dispositivo",
         "Las fotos nunca se suben a ningún servidor o servicio en la nube",
         "Todas las operaciones de gestión de fotos (visualización, organización, eliminación) ocurren completamente en su dispositivo",
-        "La Aplicación no modifica sus fotos de ninguna manera — solo le ayuda a decidir cuáles conservar o eliminar"
+        "La Aplicación no edita sus fotos. Las fotos que descarta esperan en la Papelera de la Aplicación y permanecen en su biblioteca hasta que la vacíe; vaciar la Papelera las elimina de su biblioteca de fotos"
       ]
     },
     "dataSharing": {
@@ -95,17 +95,18 @@
     },
     "cookies": {
       "title": "Análisis y Seguimiento",
-      "content": "Cleanup Photos Cleaner no utiliza ningún análisis, tecnología de seguimiento ni cookies. La Aplicación funciona completamente sin conexión y no se comunica con ningún servidor externo. Su uso de la Aplicación es completamente privado."
+      "content": "Prunely no utiliza ningún análisis, tecnología de seguimiento ni cookies. La Aplicación funciona sin conexión y no envía nada por sí misma, ni a nosotros ni a nadie más. Tres acciones salen de la Aplicación, y solo cuando usted las pulsa: Compartir abre el menú de compartir del sistema con una imagen resumen de su progreso (no contiene ninguna de sus fotos), Enviar Comentarios abre su aplicación de correo y Valorar abre el App Store. Los recordatorios diarios son opcionales, requieren su permiso y se programan en su dispositivo; no interviene ningún servidor de notificaciones push."
     },
     "dataSecurity": {
       "title": "Seguridad de Datos",
-      "content": "Dado que Cleanup Photos Cleaner no recopila ni transmite ningún dato, su información permanece segura en su dispositivo en todo momento. La Aplicación opera completamente dentro del entorno local de su dispositivo, y sus fotos nunca salen de su dispositivo a través de la Aplicación."
+      "content": "Dado que Prunely no recopila ni transmite ningún dato, su información permanece segura en su dispositivo en todo momento. La Aplicación opera completamente dentro del entorno local de su dispositivo, y sus fotos nunca salen de su dispositivo a través de la Aplicación."
     },
     "rights": {
       "title": "Sus Derechos",
       "content": "Usted tiene control total sobre sus datos en todo momento:",
       "items": [
         "Puede revocar el acceso de la Aplicación a su biblioteca de fotos en cualquier momento a través de la Configuración de su dispositivo",
+        "Puede desactivar los recordatorios diarios en cualquier momento en los ajustes de la Aplicación o en la Configuración de su dispositivo",
         "Puede eliminar la Aplicación en cualquier momento, lo que elimina todos los datos relacionados con la Aplicación de su dispositivo",
         "No es necesario eliminar ninguna cuenta ya que no creamos cuentas",
         "No es necesario solicitar la eliminación de datos ya que no almacenamos ninguno de sus datos"

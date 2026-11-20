@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import { Shield, Eye, Lock, WifiOff, FileText, Share2, Mail, ImageIcon, Trophy } from "lucide-react";
 
 // one page per app: `ns` picks the translation block, `date` its last-updated date
-export default function PrivacyPage({ ns = 'privacy', date = 'February 28, 2026' }: { ns?: string; date?: string }) {
+export default function PrivacyPage({ ns = 'privacy', date = 'November 20, 2026' }: { ns?: string; date?: string }) {
   const t = useTranslations(ns);
   
   const sections = [

@@ -59,16 +59,16 @@
   "privacy": {
     "badge": "Legal Document",
     "title": "Privacy Policy",
-    "subtitle": "Cleanup Photos Cleaner",
+    "subtitle": "Prunely",
     "lastUpdated": "Last Updated",
-    "intro": "This privacy policy applies to the Cleanup Photos Cleaner app (the \"App\") developed by Heroicsoft. We respect your privacy and are committed to being transparent about our data practices. Simply put: we do not collect, store, or share any of your personal data.",
+    "intro": "This privacy policy applies to the Prunely app, formerly called Cleanup Photos Cleaner, (the \"App\") developed by Heroicsoft. We respect your privacy and are committed to being transparent about our data practices. Simply put: we do not collect, store, or share any of your personal data.",
     "dataCollection": {
       "title": "Information We Do Not Collect",
-      "content": "Cleanup Photos Cleaner does not collect any personal information from its users. Specifically:",
+      "content": "Prunely does not collect any personal information from its users. Specifically:",
       "items": [
-        "We do not collect your name, email address, or any contact information",
+        "We do not collect your name, email address, or any contact information. If you choose to email us feedback, we see your email address and use it only to reply",
         "We do not collect device identifiers or IP addresses",
-        "We do not collect usage statistics or behavioral data",
+        "We do not collect usage statistics or behavioral data. Your daily goal, streak, keep and trash choices and settings are saved only on your device and are never sent to us",
         "We do not require account creation or login",
         "We do not collect any data that could identify you personally"
       ]
@@ -80,7 +80,7 @@
         "Your photos are only accessed and displayed locally on your device",
         "Photos are never uploaded to any server or cloud service",
         "All photo management operations (viewing, organizing, deleting) happen entirely on your device",
-        "The App does not modify your photos in any way — it only helps you decide which ones to keep or delete"
+        "The App does not edit your photos. Photos you swipe away wait in the App's Trash and stay in your library until you empty it; emptying the Trash deletes them from your photo library"
       ]
     },
     "dataSharing": {
@@ -95,17 +95,18 @@
     },
     "cookies": {
       "title": "Analytics & Tracking",
-      "content": "Cleanup Photos Cleaner does not use any analytics, tracking technologies, or cookies. The App operates entirely offline and does not communicate with any external servers. Your usage of the App is completely private."
+      "content": "Prunely does not use any analytics, tracking technologies, or cookies. The App works offline and sends nothing to us or to anyone else on its own. Three actions leave the App, and only when you tap them: Share opens the system share sheet with a summary image of your progress (it contains none of your photos), Send Feedback opens your mail app, and Rate opens the App Store. Daily reminders are optional, need your permission, and are scheduled on your device; no push notification server is involved."
     },
     "dataSecurity": {
       "title": "Data Security",
-      "content": "Since Cleanup Photos Cleaner does not collect or transmit any data, your information remains securely on your device at all times. The App operates entirely within your device's local environment, and your photos never leave your device through the App."
+      "content": "Since Prunely does not collect or transmit any data, your information remains securely on your device at all times. The App operates entirely within your device's local environment, and your photos never leave your device through the App."
     },
     "rights": {
       "title": "Your Rights",
       "content": "You are in full control of your data at all times:",
       "items": [
         "You can revoke the App's access to your photo library at any time through your device's Settings",
+        "You can turn daily reminders off at any time in the App's settings or in your device's Settings",
         "You can delete the App at any time, which removes all App-related data from your device",
         "No account deletion is necessary since we do not create accounts",
         "No data deletion request is necessary since we do not store any of your data"

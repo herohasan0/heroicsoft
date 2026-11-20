@@ -59,16 +59,16 @@
   "privacy": {
     "badge": "Yasal Belge",
     "title": "Gizlilik Politikası",
-    "subtitle": "Cleanup Photos Cleaner",
+    "subtitle": "Prunely",
     "lastUpdated": "Son Güncelleme",
-    "intro": "Bu gizlilik politikası, Heroicsoft tarafından geliştirilen Cleanup Photos Cleaner uygulaması (\"Uygulama\") için geçerlidir. Gizliliğinize saygı duyuyor ve veri uygulamalarımız konusunda şeffaf olmaya kararlıyız. Kısacası: kişisel verilerinizi toplamıyor, saklamıyor veya paylaşmıyoruz.",
+    "intro": "Bu gizlilik politikası, Heroicsoft tarafından geliştirilen, eski adı Cleanup Photos Cleaner olan Prunely uygulaması (\"Uygulama\") için geçerlidir. Gizliliğinize saygı duyuyor ve veri uygulamalarımız konusunda şeffaf olmaya kararlıyız. Kısacası: kişisel verilerinizi toplamıyor, saklamıyor veya paylaşmıyoruz.",
     "dataCollection": {
       "title": "Toplamadığımız Bilgiler",
-      "content": "Cleanup Photos Cleaner, kullanıcılarından hiçbir kişisel bilgi toplamaz. Özellikle:",
+      "content": "Prunely, kullanıcılarından hiçbir kişisel bilgi toplamaz. Özellikle:",
       "items": [
-        "Adınızı, e-posta adresinizi veya herhangi bir iletişim bilginizi toplamıyoruz",
+        "Adınızı, e-posta adresinizi veya herhangi bir iletişim bilginizi toplamıyoruz. Bize e-postayla geri bildirim göndermeyi seçerseniz e-posta adresinizi görürüz ve yalnızca yanıt vermek için kullanırız",
         "Cihaz tanımlayıcılarını veya IP adreslerini toplamıyoruz",
-        "Kullanım istatistikleri veya davranışsal veriler toplamıyoruz",
+        "Kullanım istatistikleri veya davranışsal veriler toplamıyoruz. Günlük hedefiniz, seriniz, saklama ve silme seçimleriniz ile ayarlarınız yalnızca cihazınızda saklanır ve bize asla gönderilmez",
         "Hesap oluşturma veya giriş yapma gerektirmiyoruz",
         "Sizi kişisel olarak tanımlayabilecek hiçbir veri toplamıyoruz"
       ]
@@ -80,7 +80,7 @@
         "Fotoğraflarınıza yalnızca cihazınızda yerel olarak erişilir ve görüntülenir",
         "Fotoğraflar hiçbir zaman bir sunucuya veya bulut hizmetine yüklenmez",
         "Tüm fotoğraf yönetim işlemleri (görüntüleme, düzenleme, silme) tamamen cihazınızda gerçekleşir",
-        "Uygulama fotoğraflarınızı hiçbir şekilde değiştirmez — yalnızca hangilerini saklayıp hangilerini sileceğinize karar vermenize yardımcı olur"
+        "Uygulama fotoğraflarınızı düzenlemez. Kaydırarak ayırdığınız fotoğraflar Uygulamanın Çöp Kutusunda bekler ve siz boşaltana kadar kitaplığınızda kalır; Çöp Kutusunu boşaltmak bu fotoğrafları fotoğraf kitaplığınızdan siler"
       ]
     },
     "dataSharing": {
@@ -95,17 +95,18 @@
     },
     "cookies": {
       "title": "Analitik ve İzleme",
-      "content": "Cleanup Photos Cleaner herhangi bir analitik, izleme teknolojisi veya çerez kullanmaz. Uygulama tamamen çevrimdışı çalışır ve herhangi bir harici sunucuyla iletişim kurmaz. Uygulamayı kullanımınız tamamen gizlidir."
+      "content": "Prunely herhangi bir analitik, izleme teknolojisi veya çerez kullanmaz. Uygulama çevrimdışı çalışır ve kendiliğinden bize ya da başka birine hiçbir şey göndermez. Yalnızca siz dokunduğunuzda Uygulamanın dışına çıkan üç işlem vardır: Paylaş, ilerlemenizin özet görseliyle sistem paylaşım sayfasını açar (görselde fotoğraflarınız yer almaz); Geri Bildirim Gönder e-posta uygulamanızı açar; Puanla ise App Store'u açar. Günlük hatırlatıcılar isteğe bağlıdır, izninizi gerektirir ve cihazınızda zamanlanır; herhangi bir anlık bildirim sunucusu kullanılmaz."
     },
     "dataSecurity": {
       "title": "Veri Güvenliği",
-      "content": "Cleanup Photos Cleaner herhangi bir veri toplamadığı veya iletmediği için bilgileriniz her zaman güvenli bir şekilde cihazınızda kalır. Uygulama tamamen cihazınızın yerel ortamında çalışır ve fotoğraflarınız Uygulama aracılığıyla asla cihazınızdan ayrılmaz."
+      "content": "Prunely herhangi bir veri toplamadığı veya iletmediği için bilgileriniz her zaman güvenli bir şekilde cihazınızda kalır. Uygulama tamamen cihazınızın yerel ortamında çalışır ve fotoğraflarınız Uygulama aracılığıyla asla cihazınızdan ayrılmaz."
     },
     "rights": {
       "title": "Haklarınız",
       "content": "Verileriniz üzerinde her zaman tam kontrol sizdedir:",
       "items": [
         "Cihazınızın Ayarlar bölümünden istediğiniz zaman Uygulamanın fotoğraf kitaplığı erişimini iptal edebilirsiniz",
+        "Günlük hatırlatıcıları istediğiniz zaman Uygulamanın ayarlarından veya cihazınızın Ayarlar bölümünden kapatabilirsiniz",
         "Uygulamayı istediğiniz zaman silebilirsiniz, bu işlem Uygulamayla ilgili tüm verileri cihazınızdan kaldırır",
         "Hesap oluşturmadığımız için hesap silme işlemi gerekmez",
         "Verilerinizi saklamadığımız için veri silme talebi gerekmez"
